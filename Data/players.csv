@@ -1,0 +1,913 @@
+ID,Name,Role,Full Name,Image,DOB,Batting Style (s),Bowling Style (s),Batting Style (l),Bowling Style(l),Team ID,Playing Role
+2230,RT Ponting,C,Ricky Ponting,/db/PICTURES/CMS/202600/202613.1.jpg,19-12-1974,rhb,rm,right-hand bat,right-arm medium,2.0,top-order batter
+8876,MJ Clarke,VC,Michael Clarke,/db/PICTURES/CMS/202500/202579.1.jpg,2-4-1981,rhb,sla,right-hand bat,slow left-arm orthodox,2.0,middle-order batter
+7445,NW Bracken,P,Nathan Bracken,/db/PICTURES/CMS/103900/103970.1.jpg,12-9-1977,rhb,lfm,right-hand bat,left-arm fast-medium,2.0,bowler
+6426,BJ Haddin,WK,Brad Haddin,/db/PICTURES/CMS/202500/202587.1.jpg,23-10-1977,rhb,,right-hand bat,,2.0,wicketkeeper batter
+10122,NM Hauritz,P,Nathan Hauritz,/db/PICTURES/CMS/103900/103952.1.jpg,18-10-1981,rhb,ob,right-hand bat,right-arm offbreak,2.0,bowler
+44865,BW Hilfenhaus,P,Ben Hilfenhaus,/db/PICTURES/CMS/202500/202599.1.jpg,15-3-1983,rhb,rfm,right-hand bat,right-arm fast-medium,2.0,bowler
+9235,JR Hopes,P,James Hopes,/db/PICTURES/CMS/103900/103971.1.jpg,24-10-1978,rhb,rm,right-hand bat,right-arm medium,2.0,allrounder
+11984,DJ Hussey,P,David Hussey,/db/PICTURES/CMS/202500/202593.1.jpg,15-7-1977,rhb,ob,right-hand bat,right-arm offbreak,2.0,allrounder
+6256,MEK Hussey,P,Michael Hussey,/db/PICTURES/CMS/202500/202597.1.jpg,27-5-1975,lhb,rm,left-hand bat,right-arm medium,2.0,middle-order batter
+10130,MG Johnson,P,Mitchell Johnson,/db/PICTURES/CMS/202600/202605.1.jpg,2-11-1981,lhb,lf,left-hand bat,left-arm fast,2.0,bowler
+5966,B Lee,P,Brett Lee,/db/PICTURES/CMS/202600/202607.1.jpg,8-11-1976,rhb,rf,right-hand bat,right-arm fast,2.0,bowler
+45980,PM Siddle,P,Peter Siddle,/db/PICTURES/CMS/202600/202617.1.jpg,25-11-1984,rhb,rfm,right-hand bat,right-arm fast-medium,2.0,bowler
+48739,DA Warner,P,David Warner,/db/PICTURES/CMS/263500/263541.1.jpg,27-10-1986,lhb,lb,left-hand bat,legbreak,2.0,opening batter
+10125,SR Watson,P,Shane Watson,/db/PICTURES/CMS/202600/202621.1.jpg,17-6-1981,rhb,rfm,right-hand bat,right-arm fast-medium,2.0,allrounder
+12049,CL White,P,Cameron White,/db/PICTURES/CMS/202600/202623.1.jpg,18-8-1983,rhb,lbg,right-hand bat,legbreak googly,2.0,middle-order batter
+4382,A Symonds,P,Andrew Symonds,/db/PICTURES/CMS/104200/104288.1.jpg,9-6-1975,rhb,"rm,ob",right-hand bat,"right-arm medium,right-arm offbreak",2.0,allrounder
+24667,Mohammad Ashraful,C,Mohammad Ashraful,/db/PICTURES/CMS/303100/303143.jpg,7-7-1984,rhb,"ob,lb",right-hand bat,"right-arm offbreak,legbreak",25.0,middle-order batter
+45159,Abdur Razzak,P,Abdur Razzak,/db/PICTURES/CMS/202800/202853.1.jpg,15-6-1982,lhb,sla,left-hand bat,slow left-arm orthodox,25.0,bowler
+47218,Junaid Siddique,P,Zunaed Siddique,/db/PICTURES/CMS/202900/202933.1.jpg,30-10-1987,lhb,ob,left-hand bat,right-arm offbreak,25.0,top-order batter
+47352,Mahmudullah,P,Mahmudullah,/db/PICTURES/CMS/263500/263581.jpg,4-2-1986,rhb,ob,right-hand bat,right-arm offbreak,25.0,allrounder
+24672,Mashrafe Mortaza,P,Mashrafe Mortaza,/db/PICTURES/CMS/302900/302999.jpg,5-10-1983,rhb,rfm,right-hand bat,right-arm fast-medium,25.0,bowler
+50414,Mohammad Mithun,P,Mohammad Mithun,/db/PICTURES/CMS/303100/303144.jpg,2-3-1991,rhb,,right-hand bat,,25.0,top-order batter
+47986,Mushfiqur Rahim,WK,Mushfiqur Rahim,/db/PICTURES/CMS/303100/303148.jpg,9-5-1987,rhb,,right-hand bat,,25.0,wicketkeeper batter
+47189,Naeem Islam,P,Naeem Islam,/db/PICTURES/CMS/308100/308137.1.jpg,31-12-1986,rhb,ob,right-hand bat,right-arm offbreak,25.0,allrounder
+48394,Raqibul Hasan,P,Raqibul Hasan,/db/PICTURES/CMS/128600/128608.1.jpg,8-10-1987,rhb,lb,right-hand bat,legbreak,25.0,batter
+52364,Rubel Hossain,P,Rubel Hossain,/db/PICTURES/CMS/263500/263594.jpg,1-1-1990,rhb,rf,right-hand bat,right-arm fast,25.0,bowler
+47353,Shahadat Hossain,P,Shahadat Hossain,/db/PICTURES/CMS/202900/202945.1.jpg,7-8-1986,rhb,rmf,right-hand bat,right-arm medium-fast,25.0,bowler
+48277,Shakib Al Hasan,P,Shakib Al Hasan,/db/PICTURES/CMS/303100/303157.jpg,24-3-1987,lhb,sla,left-hand bat,slow left-arm orthodox,25.0,allrounder
+47984,Shamsur Rahman,P,Shamsur Rahman,/db/PICTURES/CMS/303100/303158.jpg,5-6-1988,rhb,,right-hand bat,,25.0,opening batter
+45573,Syed Rasel,P,Syed Rasel,/db/PICTURES/CMS/303100/303163.jpg,3-7-1984,lhb,lmf,left-hand bat,left-arm medium-fast,25.0,bowler
+48391,Tamim Iqbal,P,Tamim Iqbal,/db/PICTURES/CMS/303100/303166.jpg,20-3-1989,lhb,,left-hand bat,,25.0,opening batter
+2314,PD Collingwood,C,Paul Collingwood,/db/PICTURES/CMS/304200/304259.png,26-5-1976,rhb,rm,right-hand bat,right-arm medium,1.0,allrounder
+10829,JM Anderson,P,James Anderson,/db/PICTURES/CMS/243000/243027.jpg,30-7-1982,lhb,rfm,left-hand bat,right-arm fast-medium,1.0,bowler
+44691,RS Bopara,P,Ravi Bopara,/db/PICTURES/CMS/304000/304007.jpg,4-5-1985,rhb,rm,right-hand bat,right-arm medium,1.0,batting allrounder
+48440,SCJ Broad,P,Stuart Broad,/db/PICTURES/CMS/305000/305005.jpg,24-6-1986,lhb,rfm,left-hand bat,right-arm fast-medium,1.0,bowler
+7826,JS Foster,WK,James Foster,/db/PICTURES/CMS/305000/305037.jpg,15-4-1980,rhb,,right-hand bat,,1.0,wicketkeeper batter
+7053,RWT Key,P,Rob Key,/db/PICTURES/CMS/304300/304355.jpg,12-5-1979,rhb,ob,right-hand bat,right-arm offbreak,1.0,top-order batter
+6769,AD Mascarenhas,P,Dimitri Mascarenhas,/db/PICTURES/CMS/305000/305011.jpg,30-10-1977,rhb,rfm,right-hand bat,right-arm fast-medium,1.0,allrounder
+47055,EJG Morgan,P,Eoin Morgan,/db/PICTURES/CMS/303900/303947.jpg,10-9-1986,lhb,rm,left-hand bat,right-arm medium,1.0,middle-order batter
+7221,GR Napier,P,Graham Napier,/db/PICTURES/CMS/144200/144291.1.jpg,6-1-1980,rhb,rm,right-hand bat,right-arm medium,1.0,bowling allrounder
+8107,KP Pietersen,P,Kevin Pietersen,/db/PICTURES/CMS/304900/304987.jpg,27-6-1980,rhb,ob,right-hand bat,right-arm offbreak,1.0,top-order batter
+49427,AU Rashid,P,Adil Rashid,/db/PICTURES/CMS/289600/289662.1.jpg,17-2-1988,rhb,lb,right-hand bat,legbreak,1.0,bowler
+6377,OA Shah,P,Owais Shah,/db/PICTURES/CMS/303900/303991.jpg,22-10-1978,rhb,ob,right-hand bat,right-arm offbreak,1.0,batter
+4647,RJ Sidebottom,P,Ryan Sidebottom,/db/PICTURES/CMS/304300/304356.jpg,15-1-1978,lhb,lfm,left-hand bat,left-arm fast-medium,1.0,bowler
+7013,GP Swann,P,Graeme Swann,/db/PICTURES/CMS/305000/305043.jpg,24-3-1979,rhb,ob,right-hand bat,right-arm offbreak,1.0,bowler
+44660,LJ Wright,P,Luke Wright,/db/PICTURES/CMS/305000/305012.jpg,7-3-1985,rhb,rm,right-hand bat,right-arm medium,1.0,top-order batter
+4271,A Flintoff,P,Andrew Flintoff,/db/PICTURES/CMS/304200/304256.jpg,6-12-1977,rhb,rfm,right-hand bat,right-arm fast-medium,1.0,allrounder
+7593,MS Dhoni,CWK,MS Dhoni,/db/PICTURES/CMS/302400/302402.jpg,7-7-1981,rhb,rm,right-hand bat,right-arm medium,6.0,wicketkeeper batter
+7716,Yuvraj Singh,VC,Yuvraj Singh,/db/PICTURES/CMS/302400/302406.jpg,12-12-1981,lhb,sla,left-hand bat,slow left-arm orthodox,6.0,middle-order batter
+7773,G Gambhir,P,Gautam Gambhir,/db/PICTURES/CMS/304100/304196.png,14-10-1981,lhb,lb,left-hand bat,legbreak,6.0,top-order batter
+7139,Harbhajan Singh,P,Harbhajan Singh,/db/PICTURES/CMS/302400/302494.jpg,3-7-1980,rhb,ob,right-hand bat,right-arm offbreak,6.0,bowler
+49247,RA Jadeja,P,Ravindra Jadeja,/db/PICTURES/CMS/302300/302394.jpg,6-12-1988,lhb,sla,left-hand bat,slow left-arm orthodox,6.0,allrounder
+8813,KD Karthik,P,Dinesh Karthik,/db/PICTURES/CMS/304100/304195.png,1-6-1985,rhb,ob,right-hand bat,right-arm offbreak,6.0,wicketkeeper batter
+7678,Z Khan,P,Zaheer Khan,/db/PICTURES/CMS/202600/202669.1.jpg,8-10-1978,rhb,lfm,right-hand bat,left-arm fast-medium,6.0,bowler
+48319,P Kumar,P,Praveen Kumar,/db/PICTURES/CMS/335600/335643.4.jpg,2-10-1986,rhb,rm,right-hand bat,right-arm medium,6.0,bowler
+48431,PP Ojha,P,Pragyan Ojha,/db/PICTURES/CMS/302300/302385.jpg,5-9-1986,lhb,sla,left-hand bat,slow left-arm orthodox,6.0,bowler
+15473,YK Pathan,P,Yusuf Pathan,/db/PICTURES/CMS/202700/202769.1.jpg,17-11-1982,rhb,ob,right-hand bat,right-arm offbreak,6.0,allrounder
+11399,IK Pathan,P,Irfan Pathan,/db/PICTURES/CMS/304200/304202.jpg,27-10-1984,lhb,lmf,left-hand bat,left-arm medium-fast,6.0,allrounder
+15716,SK Raina,P,Suresh Raina,/db/PICTURES/CMS/304200/304224.png,27-11-1986,lhb,ob,left-hand bat,right-arm offbreak,6.0,middle-order batter
+49327,I Sharma,P,Ishant Sharma,/db/PICTURES/CMS/302300/302388.jpg,2-9-1988,rhb,rfm,right-hand bat,right-arm fast-medium,6.0,bowler
+48405,RG Sharma,P,Rohit Sharma,/db/PICTURES/CMS/302300/302374.jpg,30-4-1987,rhb,ob,right-hand bat,right-arm offbreak,6.0,top-order batter
+47123,RP Singh,P,RP Singh,/db/PICTURES/CMS/304200/304222.png,6-12-1985,rhb,lfm,right-hand bat,left-arm fast-medium,6.0,bowler
+7781,V Sehwag,P,Virender Sehwag,/db/PICTURES/CMS/304200/304226.jpg,20-10-1978,rhb,ob,right-hand bat,right-arm offbreak,6.0,top-order batter
+47403,WTS Porterfield,C,William Porterfield,/db/PICTURES/CMS/305200/305238.jpg,6-9-1984,lhb,ob,left-hand bat,right-arm offbreak,29.0,batter
+6325,AC Botha,P,Andre Botha,/db/PICTURES/CMS/128400/128426.1.jpg,12-9-1975,lhb,rm,left-hand bat,right-arm medium,29.0,allrounder
+24812,JP Bray,P,Jeremy Bray,/db/PICTURES/CMS/305200/305226.jpg,30-11-1973,lhb,,left-hand bat,,29.0,
+52609,PC Connell,P,Peter Connell,/db/PICTURES/CMS/305200/305245.jpg,13-8-1981,rhb,rmf,right-hand bat,right-arm medium-fast,29.0,bowler
+51559,AR Cusack,P,Alex Cusack,/db/PICTURES/CMS/305200/305241.jpg,29-10-1980,rhb,rmf,right-hand bat,right-arm medium-fast,29.0,bowler
+8228,DT Johnston,P,Trent Johnston,/db/PICTURES/CMS/305200/305228.jpg,29-4-1974,rhb,rfm,right-hand bat,right-arm fast-medium,29.0,bowler
+4346,WK McCallan,P,Kyle McCallan,/db/PICTURES/CMS/305200/305232.jpg,27-8-1975,rhb,ob,right-hand bat,right-arm offbreak,29.0,allrounder
+10345,JF Mooney,P,John Mooney,/db/PICTURES/CMS/305200/305233.jpg,10-2-1982,lhb,rm,left-hand bat,right-arm medium,29.0,allrounder
+47397,KJ O'Brien,P,Kevin O'Brien,/db/PICTURES/CMS/305200/305235.jpg,4-3-1984,rhb,rmf,right-hand bat,right-arm medium-fast,29.0,batting allrounder
+10351,NJ O'Brien,WK,Niall O'Brien,/db/PICTURES/CMS/305200/305237.jpg,8-11-1981,lhb,,left-hand bat,,29.0,wicketkeeper batter
+47056,WB Rankin,P,Boyd Rankin,/db/PICTURES/CMS/305200/305274.jpg,5-7-1984,lhb,rfm,left-hand bat,right-arm fast-medium,29.0,bowler
+52631,PR Stirling,P,Paul Stirling,/db/PICTURES/CMS/305200/305247.jpg,3-9-1990,rhb,ob,right-hand bat,right-arm offbreak,29.0,batting allrounder
+10313,RM West,P,Regan West,/db/PICTURES/CMS/305200/305248.jpg,27-4-1979,lhb,"lfm,sla",left-hand bat,"left-arm fast-medium,slow left-arm orthodox",29.0,bowler
+10342,AR White,P,Andrew White,/db/PICTURES/CMS/128400/128419.1.jpg,3-7-1980,rhb,ob,right-hand bat,right-arm offbreak,29.0,allrounder
+47401,GC Wilson,WK,Gary Wilson,/db/PICTURES/CMS/305200/305240.jpg,5-2-1986,rhb,,right-hand bat,,29.0,wicketkeeper batter
+4192,J Smits,CWK,Jeroen Smits,/db/PICTURES/CMS/104300/104328.1.jpg,21-6-1972,rhb,,right-hand bat,,15.0,wicketkeeper batter
+45001,PW Borren,P,Peter Borren,/db/PICTURES/CMS/322400/322486.png,21-8-1983,rhb,rm,right-hand bat,right-arm medium,15.0,allrounder
+6362,TN de Grooth,P,Tom de Grooth,/db/PICTURES/CMS/128500/128589.1.jpg,14-5-1979,rhb,ob,right-hand bat,right-arm offbreak,15.0,middle-order batter
+57764,TGJ Gruijters,P,Tim Gruijters,/db/PICTURES/CMS/171300/171333.1.jpg,28-8-1991,rhb,rm,right-hand bat,right-arm medium,15.0,top-order batter
+52861,MMA Jonkman,P,Maurits Jonkman,/db/PICTURES/CMS/104300/104334.1.jpg,20-3-1986,rhb,rm,right-hand bat,right-arm medium,15.0,bowler
+48654,AN Kervezee,P,Alexei Kervezee,/db/PICTURES/CMS/157100/157121.1.jpg,11-9-1989,rhb,rm,right-hand bat,right-arm medium,15.0,opening batter
+49443,Mudassar Bukhari,P,Mudassar Bukhari,/db/PICTURES/CMS/181200/181255.1.jpg,26-12-1983,rhb,rmf,right-hand bat,right-arm medium-fast,15.0,allrounder
+47695,DP Nannes,P,Dirk Nannes,/db/PICTURES/CMS/117400/117423.1.jpg,16-5-1976,rhb,lf,right-hand bat,left-arm fast,2.0,bowler
+10323,DJ Reekers,P,Darron Reekers,/db/PICTURES/CMS/104300/104337.1.jpg,26-5-1973,rhb,rm,right-hand bat,right-arm medium,15.0,opening batter
+5694,E Schiferli,P,Edgar Schiferli,/db/PICTURES/CMS/104300/104338.1.jpg,17-5-1976,rhb,rmf,right-hand bat,right-arm medium-fast,15.0,bowler
+48503,PM Seelaar,P,Pieter Seelaar,/db/PICTURES/CMS/128500/128595.1.jpg,2-7-1987,rhb,sla,right-hand bat,slow left-arm orthodox,15.0,allrounder
+48655,ES Szwarczynski,P,Eric Szwarczynski,/db/PICTURES/CMS/228200/228243.1.jpg,13-2-1983,rhb,rm,right-hand bat,right-arm medium,15.0,batter
+45358,RN ten Doeschate,P,Ryan ten Doeschate,/db/PICTURES/CMS/128500/128597.1.jpg,30-6-1980,rhb,rmf,right-hand bat,right-arm medium-fast,15.0,allrounder
+6365,DLS van Bunge,P,Daan van Bunge,/db/PICTURES/CMS/171300/171343.1.jpg,19-10-1982,rhb,lb,right-hand bat,legbreak,15.0,allrounder
+2260,B Zuiderent,P,Bas Zuiderent,/db/PICTURES/CMS/128500/128599.1.jpg,3-3-1977,rhb,rm,right-hand bat,right-arm medium,15.0,middle-order batter
+46517,RG Nijman,P,Ruud Nijman,/db/PICTURES/CMS/101400/101404.1.jpg,15-6-1982,rhb,rmf,right-hand bat,right-arm medium-fast,15.0,bowler
+4380,DL Vettori,C,Daniel Vettori,/db/PICTURES/CMS/303600/303683.png,27-1-1979,lhb,sla,left-hand bat,slow left-arm orthodox,5.0,allrounder
+45000,NT Broom,P,Neil Broom,/db/PICTURES/CMS/303600/303660.jpg,20-11-1983,rhb,rm,right-hand bat,right-arm medium,5.0,middle-order batter
+10380,IG Butler,P,Ian Butler,/db/PICTURES/CMS/303600/303645.png,24-11-1981,rhb,rf,right-hand bat,right-arm fast,5.0,bowler
+47683,BJ Diamanti,P,Brendon Diamanti,/db/PICTURES/CMS/303700/303788.png,30-4-1981,rhb,rmf,right-hand bat,right-arm medium-fast,5.0,batter
+9639,JEC Franklin,P,James Franklin,/db/PICTURES/CMS/303600/303647.png,7-11-1980,lhb,lm,left-hand bat,left-arm medium,5.0,allrounder
+48927,MJ Guptill,P,Martin Guptill,/db/PICTURES/CMS/303600/303656.png,30-9-1986,rhb,ob,right-hand bat,right-arm offbreak,5.0,opening batter
+10386,NL McCullum,P,Nathan McCullum,/db/PICTURES/CMS/303800/303806.png,1-9-1980,rhb,ob,right-hand bat,right-arm offbreak,5.0,bowler
+10384,BB McCullum,WK,Brendon McCullum,/db/PICTURES/CMS/303600/303636.png,27-9-1981,rhb,"rm,ob",right-hand bat,"right-arm medium,right-arm offbreak",5.0,wicketkeeper batter
+18948,PD McGlashan,P,Peter McGlashan,/db/PICTURES/CMS/303800/303808.jpg,22-6-1979,rhb,,right-hand bat,,5.0,wicketkeeper batter
+10303,KD Mills,P,Kyle Mills,/db/PICTURES/CMS/303600/303653.png,15-3-1979,rhb,rfm,right-hand bat,right-arm fast-medium,5.0,bowler
+35652,IE O'Brien,P,Iain O'Brien,/db/PICTURES/CMS/303600/303644.png,10-7-1976,rhb,rfm,right-hand bat,right-arm fast-medium,5.0,bowler
+9989,JDP Oram,P,Jacob Oram,/db/PICTURES/CMS/303600/303646.png,28-7-1978,lhb,rfm,left-hand bat,right-arm fast-medium,5.0,allrounder
+11279,AJ Redmond,P,Aaron Redmond,/db/PICTURES/CMS/303600/303611.png,23-9-1979,rhb,lb,right-hand bat,legbreak,5.0,top-order batter
+9570,SB Styris,P,Scott Styris,/db/PICTURES/CMS/303600/303668.png,10-7-1975,rhb,rm,right-hand bat,right-arm medium,5.0,allrounder
+44930,LRPL Taylor,P,Ross Taylor,/db/PICTURES/CMS/303600/303667.png,8-3-1984,rhb,ob,right-hand bat,right-arm offbreak,5.0,middle-order batter
+44946,JD Ryder,P,Jesse Ryder,/db/PICTURES/CMS/303600/303651.png,6-8-1984,lhb,rm,left-hand bat,right-arm medium,5.0,allrounder
+10439,Younis Khan,C,Younis Khan,/db/PICTURES/CMS/302800/302850.jpg,29-11-1977,rhb,"rm,lb",right-hand bat,"right-arm medium,legbreak",7.0,middle-order batter
+4178,Abdul Razzaq,P,Abdul Razzaq,/db/PICTURES/CMS/203000/203079.1.jpg,2-12-1979,rhb,rfm,right-hand bat,right-arm fast-medium,7.0,allrounder
+49899,Ahmed Shehzad,P,Ahmed Shehzad,/db/PICTURES/CMS/302700/302765.jpg,23-11-1991,rhb,lb,right-hand bat,legbreak,7.0,opening batter
+47099,Fawad Alam,P,Fawad Alam,/db/PICTURES/CMS/302700/302772.jpg,8-10-1985,lhb,sla,left-hand bat,slow left-arm orthodox,7.0,top-order batter
+19396,Iftikhar Anjum,P,Iftikhar Anjum,/db/PICTURES/CMS/302800/302838.jpg,1-12-1980,rhb,rm,right-hand bat,right-arm medium,7.0,bowler
+9257,Kamran Akmal,WK,Kamran Akmal,/db/PICTURES/CMS/302800/302872.jpg,13-1-1982,rhb,,right-hand bat,,7.0,wicketkeeper batter
+19596,Misbah-ul-Haq,P,Misbah-ul-Haq,/db/PICTURES/CMS/302800/302839.jpg,28-5-1974,rhb,lb,right-hand bat,legbreak,7.0,middle-order batter
+51498,Mohammad Amir,P,Mohammad Amir,/db/PICTURES/CMS/302800/302820.jpg,13-4-1992,lhb,lfm,left-hand bat,left-arm fast-medium,7.0,bowler
+19930,Saeed Ajmal,P,Saeed Ajmal,/db/PICTURES/CMS/302800/302823.jpg,14-10-1977,rhb,ob,right-hand bat,right-arm offbreak,7.0,bowler
+11647,Salman Butt,P,Salman Butt,/db/PICTURES/CMS/302800/302844.jpg,7-10-1984,lhb,ob,left-hand bat,right-arm offbreak,7.0,batter
+4169,Shahid Afridi,P,Shahid Afridi,/db/PICTURES/CMS/203000/203077.1.jpg,1-3-1980,rhb,lbg,right-hand bat,legbreak googly,7.0,allrounder
+58100,Shahzaib Hasan,P,Shahzaib Hasan,/db/PICTURES/CMS/104400/104402.1.jpg,25-12-1989,rhb,ob,right-hand bat,right-arm offbreak,7.0,opening batter
+8270,Shoaib Malik,P,Shoaib Malik,/db/PICTURES/CMS/302800/302845.jpg,1-2-1982,rhb,ob,right-hand bat,right-arm offbreak,7.0,allrounder
+48128,Sohail Tanvir,P,Sohail Tanvir,/db/PICTURES/CMS/203100/203111.1.jpg,12-12-1984,lhb,lmf,left-hand bat,left-arm medium-fast,7.0,bowler
+44908,Umar Gul,P,Umar Gul,/db/PICTURES/CMS/302800/302846.jpg,15-10-1982,rhb,rfm,right-hand bat,right-arm fast-medium,7.0,bowler
+5649,Shoaib Akhtar,P,Shoaib Akhtar,/db/PICTURES/CMS/303200/303262.jpg,13-8-1975,rhb,rf,right-hand bat,right-arm fast,7.0,bowler
+10394,Yasir Arafat,P,Yasir Arafat,/db/PICTURES/CMS/203000/203091.1.jpg,12-3-1982,rhb,rfm,right-hand bat,right-arm fast-medium,7.0,allrounder
+4334,GM Hamilton,C,Gavin Hamilton,/db/PICTURES/CMS/304300/304357.jpg,16-9-1974,lhb,rmf,left-hand bat,right-arm medium-fast,30.0,middle-order batter
+48469,RD Berrington,P,Richie Berrington,/db/PICTURES/CMS/172800/172885.1.jpg,3-4-1987,rhb,rmf,right-hand bat,right-arm medium-fast,30.0,top-order batter
+46048,KJ Coetzer,P,Kyle Coetzer,/db/PICTURES/CMS/172800/172889.1.jpg,14-4-1984,rhb,rmf,right-hand bat,right-arm medium-fast,30.0,top-order batter
+52063,GD Drummond,P,Gordon Drummond,/db/PICTURES/CMS/104100/104145.1.jpg,21-4-1980,rhb,rmf,right-hand bat,right-arm medium-fast,30.0,bowler
+46091,RM Haq,P,Majid Haq,/db/PICTURES/CMS/172800/172887.1.jpg,11-2-1983,lhb,ob,left-hand bat,right-arm offbreak,30.0,bowler
+49112,CS MacLeod,P,Calum MacLeod,/db/PICTURES/CMS/172800/172869.1.jpg,15-11-1988,rhb,"rmf,ob",right-hand bat,"right-arm medium-fast,right-arm offbreak",30.0,top-order batter
+44588,NFI McCallum,P,Neil McCallum,/db/PICTURES/CMS/104400/104458.1.jpg,22-11-1977,rhb,,right-hand bat,,30.0,middle-order batter
+47873,JD Nel,P,Dewald Nel,/db/PICTURES/CMS/322400/322449.png,6-6-1980,rhb,rmf,right-hand bat,right-arm medium-fast,30.0,bowler
+46142,NS Poonia,P,Navdeep Poonia,/db/PICTURES/CMS/104400/104456.1.jpg,11-5-1986,rhb,rmf,right-hand bat,right-arm medium-fast,30.0,batter
+50788,GA Rogers,P,Glenn Rogers,/db/PICTURES/CMS/104100/104144.1.jpg,12-4-1977,rhb,sla,right-hand bat,slow left-arm orthodox,30.0,bowler
+8221,CJO Smith,WK,Colin Smith,/db/PICTURES/CMS/104400/104455.1.jpg,27-9-1972,rhb,,right-hand bat,,30.0,wicketkeeper batter
+52282,JH Stander,P,Jan Stander,/db/PICTURES/CMS/104400/104459.1.jpg,4-1-1982,rhb,rmf,right-hand bat,right-arm medium-fast,30.0,bowler
+45548,RR Watson,P,Ryan Watson,/db/PICTURES/CMS/104400/104454.1.jpg,12-11-1976,rhb,"rm,ob",right-hand bat,"right-arm medium,right-arm offbreak",30.0,middle-order batter
+8225,DF Watts,P,Fraser Watts,/db/PICTURES/CMS/104100/104143.1.jpg,5-6-1979,rhb,rm,right-hand bat,right-arm medium,30.0,opening batter
+7236,CM Wright,P,Craig Wright,/db/PICTURES/CMS/104400/104457.1.jpg,28-4-1974,rhb,rm,right-hand bat,right-arm medium,30.0,bowler
+4968,JAR Blain,P,John Blain,/db/PICTURES/CMS/131700/131774.1.jpg,4-1-1979,rhb,rfm,right-hand bat,right-arm fast-medium,30.0,bowler
+10406,GC Smith,C,Graeme Smith,/db/PICTURES/CMS/203100/203147.1.jpg,1-2-1981,lhb,ob,left-hand bat,right-arm offbreak,3.0,opening batter
+10401,J Botha,VC,Johan Botha,/db/PICTURES/CMS/203100/203145.1.jpg,2-5-1982,rhb,ob,right-hand bat,right-arm offbreak,3.0,allrounder
+48879,YA Abdulla,P,Yusuf Abdulla,/db/PICTURES/CMS/104300/104357.1.jpg,17-1-1983,lhb,lfm,left-hand bat,left-arm fast-medium,3.0,bowler
+3947,MV Boucher,WK,Mark Boucher,/db/PICTURES/CMS/136700/136790.1.jpg,3-12-1976,rhb,rm,right-hand bat,right-arm medium,3.0,wicketkeeper batter
+46533,AB de Villiers,P,AB de Villiers,/db/PICTURES/CMS/263700/263764.1.jpg,17-2-1984,rhb,rm,right-hand bat,right-arm medium,3.0,wicketkeeper batter
+45222,JP Duminy,P,Jean-Paul Duminy,/db/PICTURES/CMS/263700/263769.1.jpg,14-4-1984,lhb,ob,left-hand bat,right-arm offbreak,3.0,batting allrounder
+2347,HH Gibbs,P,Herschelle Gibbs,/db/PICTURES/CMS/146300/146343.1.jpg,23-2-1974,rhb,rab,right-hand bat,right-arm bowler,3.0,opening batter
+2232,JH Kallis,P,Jacques Kallis,/db/PICTURES/CMS/203100/203133.1.jpg,16-10-1975,rhb,rfm,right-hand bat,right-arm fast-medium,3.0,allrounder
+47289,M Morkel,P,Morne Morkel,/db/PICTURES/CMS/263700/263776.1.jpg,6-10-1984,lhb,rf,left-hand bat,right-arm fast,3.0,bowler
+9505,JA Morkel,P,Albie Morkel,/db/PICTURES/CMS/203100/203139.1.jpg,10-6-1981,lhb,rmf,left-hand bat,right-arm medium-fast,3.0,bowling allrounder
+7541,JL Ontong,P,Justin Ontong,/db/PICTURES/CMS/258600/258613.jpg,4-1-1980,rhb,ob,right-hand bat,right-arm offbreak,3.0,allrounder
+50121,WD Parnell,P,Wayne Parnell,/db/PICTURES/CMS/263700/263777.1.jpg,30-7-1989,lhb,lmf,left-hand bat,left-arm medium-fast,3.0,bowler
+9492,RJ Peterson,P,Robin Peterson,/db/PICTURES/CMS/203100/203137.1.jpg,4-8-1979,lhb,sla,left-hand bat,slow left-arm orthodox,3.0,bowler
+47154,DW Steyn,P,Dale Steyn,/db/PICTURES/CMS/315300/315317.jpg,27-6-1983,rhb,rf,right-hand bat,right-arm fast,3.0,bowler
+47391,RE van der Merwe,P,Roelof van der Merwe,/db/PICTURES/CMS/217400/217463.1.jpg,31-12-1984,rhb,sla,right-hand bat,slow left-arm orthodox,15.0,bowling allrounder
+9587,KC Sangakkara,C,Kumar Sangakkara,/db/PICTURES/CMS/305000/305090.jpg,27-10-1977,lhb,ob,left-hand bat,right-arm offbreak,8.0,wicketkeeper batter
+2041,M Muralidaran,VC,Muthiah Muralidaran,/db/PICTURES/CMS/305100/305139.jpg,17-4-1972,rhb,ob,right-hand bat,right-arm offbreak,8.0,bowler
+7412,SI de Saram,WK,Indika de Saram,/db/PICTURES/CMS/304900/304926.jpg,2-9-1973,rhb,ob,right-hand bat,right-arm offbreak,8.0,
+7419,TM Dilshan,P,Tillakaratne Dilshan,/db/PICTURES/CMS/304900/304927.jpg,14-10-1976,rhb,ob,right-hand bat,right-arm offbreak,8.0,allrounder
+1988,ST Jayasuriya,P,Sanath Jayasuriya,/db/PICTURES/CMS/304900/304919.jpg,30-6-1969,lhb,sla,left-hand bat,slow left-arm orthodox,8.0,allrounder
+6315,DPMD Jayawardene,P,Mahela Jayawardene,/db/PICTURES/CMS/303800/303879.jpg,27-5-1977,rhb,rm,right-hand bat,right-arm medium,8.0,batter
+46206,KMDN Kulasekara,P,Nuwan Kulasekara,/db/PICTURES/CMS/305000/305098.jpg,22-7-1982,rhb,rfm,right-hand bat,right-arm fast-medium,8.0,bowler
+11374,MF Maharoof,P,Farveez Maharoof,/db/PICTURES/CMS/305000/305096.jpg,7-9-1984,rhb,rfm,right-hand bat,right-arm fast-medium,8.0,allrounder
+45105,SL Malinga,P,Lasith Malinga,/db/PICTURES/CMS/305000/305097.jpg,28-8-1983,rhb,rf,right-hand bat,right-arm fast,8.0,bowler
+47023,AD Mathews,P,Angelo Mathews,/db/PICTURES/CMS/304200/304293.png,2-6-1987,rhb,rm,right-hand bat,right-arm medium,8.0,allrounder
+50377,BAW Mendis,P,Ajantha Mendis,/db/PICTURES/CMS/305100/305102.jpg,11-3-1985,rhb,ob,right-hand bat,right-arm offbreak,8.0,bowler
+8203,J Mubarak,P,Jehan Mubarak,/db/PICTURES/CMS/305000/305091.jpg,10-1-1981,lhb,ob,left-hand bat,right-arm offbreak,8.0,allrounder
+8197,LPC Silva,P,Chamara Silva,/db/PICTURES/CMS/305100/305100.jpg,14-12-1979,rhb,lb,right-hand bat,legbreak,8.0,batter
+15267,T Thushara,P,Thilan Thushara,/db/PICTURES/CMS/305000/305095.jpg,1-3-1981,lhb,lfm,left-hand bat,left-arm fast-medium,8.0,bowler
+54460,I Udana,P,Isuru Udana,/db/PICTURES/CMS/305100/305167.jpg,17-2-1988,rhb,lmf,right-hand bat,left-arm medium-fast,8.0,allrounder
+7568,CH Gayle,C,Chris Gayle,/db/PICTURES/CMS/309000/309058.png,21-9-1979,lhb,ob,left-hand bat,right-arm offbreak,4.0,allrounder
+47111,D Ramdin,VCK,Denesh Ramdin,/db/PICTURES/CMS/238300/238337.jpg,13-3-1985,rhb,,right-hand bat,,4.0,wicketkeeper batter
+46585,LS Baker,P,Lionel Baker,/db/PICTURES/CMS/104300/104361.1.jpg,6-9-1984,lhb,rmf,left-hand bat,right-arm medium-fast,4.0,bowler
+10506,SJ Benn,P,Sulieman Benn,/db/PICTURES/CMS/238300/238339.jpg,22-7-1981,lhb,sla,left-hand bat,slow left-arm orthodox,4.0,bowler
+17839,DE Bernard,P,David Bernard,/db/PICTURES/CMS/104300/104362.1.jpg,19-7-1981,rhb,rmf,right-hand bat,right-arm medium-fast,4.0,
+45257,DJ Bravo,P,Dwayne Bravo,/db/PICTURES/CMS/309000/309099.png,7-10-1983,rhb,rm,right-hand bat,right-arm medium,4.0,allrounder
+2120,S Chanderpaul,P,Shivnarine Chanderpaul,/db/PICTURES/CMS/203900/203965.1.jpg,16-8-1974,lhb,lb,left-hand bat,legbreak,4.0,batter
+45774,FH Edwards,P,Fidel Edwards,/db/PICTURES/CMS/296100/296195.1.jpg,6-2-1982,rhb,rf,right-hand bat,right-arm fast,4.0,bowler
+47602,ADS Fletcher,P,Andre Fletcher,/db/PICTURES/CMS/238300/238341.jpg,28-11-1987,rhb,"rmf,lb",right-hand bat,"right-arm medium-fast,legbreak",4.0,top-order batter
+47107,XM Marshall,P,Xavier Marshall,/db/PICTURES/CMS/104300/104370.1.jpg,27-3-1986,rhb,ob,right-hand bat,right-arm offbreak,11.0,opening batter
+49040,KA Pollard,P,Kieron Pollard,/db/PICTURES/CMS/203300/203305.1.jpg,12-5-1987,rhb,rm,right-hand bat,right-arm medium,4.0,batting allrounder
+44829,DJG Sammy,P,Daren Sammy,/db/PICTURES/CMS/312100/312186.png,20-12-1983,rhb,rm,right-hand bat,right-arm medium,4.0,allrounder
+6405,RR Sarwan,P,Ramnaresh Sarwan,/db/PICTURES/CMS/203200/203271.1.jpg,23-6-1980,rhb,lb,right-hand bat,legbreak,4.0,batter
+45256,LMP Simmons,P,Lendl Simmons,/db/PICTURES/CMS/203200/203285.1.jpg,25-1-1985,rhb,rmf,right-hand bat,right-arm medium-fast,4.0,top-order batter
+46591,JE Taylor,P,Jerome Taylor,/db/PICTURES/CMS/207700/207755.1.jpg,22-6-1984,rhb,rf,right-hand bat,right-arm fast,4.0,bowler
+53602,Nawroz Mangal,C,Nawroz Mangal,/db/PICTURES/CMS/150100/150133.1.jpg,15-7-1984,rhb,ob,right-hand bat,right-arm offbreak,40.0,top-order batter
+53809,Asghar Afghan,P,Asghar Afghan,/db/PICTURES/CMS/303200/303265.jpg,26-12-1987,rhb,rmf,right-hand bat,right-arm medium-fast,40.0,middle-order batter
+46890,Dawlat Ahmadzai,P,Dawlat Ahmadzai,/db/PICTURES/CMS/303200/303266.jpg,5-9-1984,rhb,rfm,right-hand bat,right-arm fast-medium,40.0,bowler
+53326,Hamid Hassan,P,Hamid Hassan,/db/PICTURES/CMS/303200/303270.jpg,1-6-1987,rhb,rf,right-hand bat,right-arm fast,40.0,bowler
+53767,Karim Sadiq,P,Karim Sadiq,/db/PICTURES/CMS/150100/150134.1.jpg,5-1-1984,rhb,ob,right-hand bat,right-arm offbreak,40.0,opening batter
+59061,Mirwais Ashraf,P,Mirwais Ashraf,/db/PICTURES/CMS/303200/303279.jpg,4-9-1988,rhb,rfm,right-hand bat,right-arm fast-medium,40.0,bowler
+46888,Mohammad Nabi,P,Mohammad Nabi,/db/PICTURES/CMS/303200/303280.jpg,1-1-1985,rhb,ob,right-hand bat,right-arm offbreak,40.0,allrounder
+60436,Mohammad Shahzad,P,Mohammad Shahzad,/db/PICTURES/CMS/303200/303281.jpg,10-1-1987,rhb,,right-hand bat,,40.0,wicketkeeper batter
+58074,Nasratullah,P,Sayed Nasratullah,/db/PICTURES/CMS/116600/116664.1.jpg,10-5-1984,lhb,sla,left-hand bat,slow left-arm orthodox,40.0,
+53606,Noor Ali Zadran,P,Noor Ali Zadran,/db/PICTURES/CMS/235900/235937.1.jpg,10-7-1988,rhb,rmf,right-hand bat,right-arm medium-fast,40.0,opening batter
+53786,Raees Ahmadzai,P,Raees Ahmadzai,/db/PICTURES/CMS/303200/303286.jpg,3-9-1984,rhb,ob,right-hand bat,right-arm offbreak,40.0,middle-order batter
+53605,Samiullah Shinwari,P,Samiullah Shinwari,/db/PICTURES/CMS/289900/289939.jpg,31-12-1987,rhb,lb,right-hand bat,legbreak,40.0,allrounder
+52976,Shabir Noori,P,Shabir Noori,/db/PICTURES/CMS/148100/148136.1.jpg,22-2-1992,rhb,ob,right-hand bat,right-arm offbreak,40.0,top-order batter
+57628,Shafiqullah,WK,Shafiqullah,/db/PICTURES/CMS/150100/150126.1.jpg,7-8-1989,rhb,,right-hand bat,,40.0,wicketkeeper batter
+53755,Shapoor Zadran,P,Shapoor Zadran,/db/PICTURES/CMS/150100/150123.1.jpg,8-7-1987,lhb,lfm,left-hand bat,left-arm fast-medium,40.0,bowler
+44853,DT Christian,P,Dan Christian,/db/PICTURES/CMS/202500/202581.1.jpg,4-5-1983,rhb,rfm,right-hand bat,right-arm fast-medium,2.0,allrounder
+12601,RJ Harris,P,Ryan Harris,/db/PICTURES/CMS/202500/202595.1.jpg,11-10-1979,rhb,rf,right-hand bat,right-arm fast,2.0,bowler
+34747,TD Paine,WK,Tim Paine,/db/PICTURES/CMS/313700/313747.jpg,8-12-1984,rhb,rm,right-hand bat,right-arm medium,2.0,wicketkeeper batter
+50281,SPD Smith,P,Steven Smith,/db/PICTURES/CMS/309500/309571.1.jpg,2-6-1989,rhb,lbg,right-hand bat,legbreak googly,2.0,top-order batter
+17780,SW Tait,P,Shaun Tait,/db/PICTURES/CMS/128300/128330.1.jpg,22-2-1983,rhb,rf,right-hand bat,right-arm fast,2.0,bowler
+45558,Aftab Ahmed,P,Aftab Ahmed,/db/PICTURES/CMS/202800/202855.1.jpg,10-11-1985,rhb,rm,right-hand bat,right-arm medium,25.0,opening batter
+51239,Imrul Kayes,P,Imrul Kayes,/db/PICTURES/CMS/263500/263597.jpg,2-2-1987,lhb,sla,left-hand bat,slow left-arm orthodox,25.0,opening batter
+46507,Jahurul Islam,P,Jahurul Islam,/db/PICTURES/CMS/202800/202857.1.jpg,12-12-1986,rhb,ob,right-hand bat,right-arm offbreak,25.0,middle-order batter
+51377,Shafiul Islam,P,Shafiul Islam,/db/PICTURES/CMS/263500/263591.jpg,6-10-1989,rhb,rfm,right-hand bat,right-arm fast-medium,25.0,bowler
+48390,Sohrawordi Shuvo,P,Sohrawordi Shuvo,/db/PICTURES/CMS/128600/128613.1.jpg,21-11-1988,lhb,sla,left-hand bat,slow left-arm orthodox,25.0,bowler
+34739,TT Bresnan,P,Tim Bresnan,/db/PICTURES/CMS/305000/305003.jpg,28-2-1985,rhb,rmf,right-hand bat,right-arm medium-fast,1.0,allrounder
+49047,C Kieswetter,WK,Craig Kieswetter,/db/PICTURES/CMS/305000/305016.jpg,28-11-1987,rhb,ob,right-hand bat,right-arm offbreak,1.0,opening batter
+10787,MJ Lumb,P,Michael Lumb,/db/PICTURES/CMS/305000/305024.jpg,12-2-1980,lhb,rm,left-hand bat,right-arm medium,1.0,top-order batter
+47848,A Shahzad,P,Ajmal Shahzad,/db/PICTURES/CMS/305000/305017.jpg,27-7-1985,rhb,rfm,right-hand bat,right-arm fast-medium,1.0,bowler
+10831,JC Tredwell,P,James Tredwell,/db/PICTURES/CMS/304300/304343.jpg,27-2-1982,lhb,ob,left-hand bat,right-arm offbreak,1.0,allrounder
+8307,MH Yardy,P,Michael Yardy,/db/PICTURES/CMS/305000/305006.jpg,27-11-1980,lhb,sla,left-hand bat,slow left-arm orthodox,1.0,allrounder
+47185,PP Chawla,P,Piyush Chawla,/db/PICTURES/CMS/304200/304219.png,24-12-1988,lhb,lb,left-hand bat,legbreak,6.0,bowling allrounder
+7804,A Nehra,P,Ashish Nehra,/db/PICTURES/CMS/128400/128480.1.jpg,29-4-1979,rhb,lmf,right-hand bat,left-arm medium-fast,6.0,bowler
+49342,M Vijay,P,Murali Vijay,/db/PICTURES/CMS/304200/304215.png,1-4-1984,rhb,ob,right-hand bat,right-arm offbreak,6.0,opening batter
+10556,R Vinay Kumar,P,Vinay Kumar,/db/PICTURES/CMS/304200/304225.png,12-2-1984,rhb,rm,right-hand bat,right-arm medium,6.0,bowler
+58274,UT Yadav,P,Umesh Yadav,/db/PICTURES/CMS/302300/302396.jpg,25-10-1987,rhb,rf,right-hand bat,right-arm fast,6.0,bowler
+56811,GH Dockrell,P,George Dockrell,/db/PICTURES/CMS/303900/303998.jpg,22-7-1992,rhb,sla,right-hand bat,slow left-arm orthodox,29.0,allrounder
+59933,NG Jones,P,Nigel Jones,/db/PICTURES/CMS/305200/305249.jpg,22-4-1982,rhb,rm,right-hand bat,right-arm medium,29.0,allrounder
+47405,GE Kidd,P,Gary Kidd,/db/PICTURES/CMS/305200/305244.jpg,18-9-1985,lhb,sla,left-hand bat,slow left-arm orthodox,29.0,bowler
+10280,SE Bond,P,Shane Bond,/db/PICTURES/CMS/303600/303669.png,7-6-1975,rhb,rf,right-hand bat,right-arm fast,5.0,bowler
+9710,GJ Hopkins,WK,Gareth Hopkins,/db/PICTURES/CMS/136700/136767.1.jpg,24-11-1976,rhb,,right-hand bat,,5.0,wicketkeeper batter
+44895,RJ Nicol,P,Rob Nicol,/db/PICTURES/CMS/203000/203057.1.jpg,28-5-1983,rhb,"rm,ob",right-hand bat,"right-arm medium,right-arm offbreak",5.0,opening batter
+49108,TG Southee,P,Tim Southee,/db/PICTURES/CMS/303600/303610.png,11-12-1988,rhb,rmf,right-hand bat,right-arm medium-fast,5.0,bowler
+10443,Abdur Rehman,P,Abdur Rehman,/db/PICTURES/CMS/203000/203095.1.jpg,1-3-1980,lhb,sla,left-hand bat,slow left-arm orthodox,7.0,bowler
+58881,Hammad Azam,P,Hammad Azam,/db/PICTURES/CMS/302800/302870.jpg,16-3-1991,rhb,rm,right-hand bat,right-arm medium,7.0,middle-order batter
+11643,Khalid Latif,P,Khalid Latif,/db/PICTURES/CMS/302800/302874.jpg,4-11-1985,rhb,ob,right-hand bat,right-arm offbreak,7.0,top-order batter
+19627,Mohammad Asif,P,Mohammad Asif,/db/PICTURES/CMS/302800/302840.jpg,20-12-1982,lhb,rfm,left-hand bat,right-arm fast-medium,7.0,bowler
+19647,Mohammad Hafeez,P,Mohammad Hafeez,/db/PICTURES/CMS/302800/302841.jpg,17-10-1980,rhb,ob,right-hand bat,right-arm offbreak,7.0,allrounder
+10776,Mohammad Sami,P,Mohammad Sami,/db/PICTURES/CMS/302800/302842.jpg,24-2-1981,rhb,rf,right-hand bat,right-arm fast,7.0,bowler
+53546,Umar Akmal,P,Umar Akmal,/db/PICTURES/CMS/302800/302828.jpg,26-5-1990,rhb,ob,right-hand bat,right-arm offbreak,7.0,middle-order batter
+7538,LE Bosman,P,Loots Bosman,/db/PICTURES/CMS/132200/132253.1.jpg,14-4-1977,rhb,rm,right-hand bat,right-arm medium,3.0,opening batter
+45889,RK Kleinveldt,P,Rory Kleinveldt,/db/PICTURES/CMS/203100/203157.1.jpg,15-3-1983,rhb,rfm,right-hand bat,right-arm fast-medium,3.0,bowler
+7540,CK Langeveldt,P,Charl Langeveldt,/db/PICTURES/CMS/194200/194235.1.jpg,17-12-1974,rhb,rfm,right-hand bat,right-arm fast-medium,3.0,bowler
+48863,J Theron,P,Rusty Theron,/db/PICTURES/CMS/136700/136789.1.jpg,24-7-1985,rhb,rmf,right-hand bat,right-arm medium-fast,11.0,bowler
+52371,LD Chandimal,P,Dinesh Chandimal,/db/PICTURES/CMS/325600/325673.5.jpg,18-11-1989,rhb,ob,right-hand bat,right-arm offbreak,8.0,wicketkeeper batter
+12122,CU Jayasinghe,P,Chinthaka Jayasinghe,/db/PICTURES/CMS/305200/305202.jpg,19-5-1978,rhb,rm,right-hand bat,right-arm medium,8.0,allrounder
+48520,CK Kapugedera,P,Chamara Kapugedera,/db/PICTURES/CMS/263600/263664.1.jpg,24-2-1987,rhb,rm,right-hand bat,right-arm medium,8.0,middle-order batter
+49193,NLTC Perera,P,Thisara Perera,/db/PICTURES/CMS/263600/263680.1.png,3-4-1989,lhb,rmf,left-hand bat,right-arm medium-fast,8.0,bowling allrounder
+11385,S Randiv,P,Suraj Randiv,/db/PICTURES/CMS/131000/131045.1.jpg,30-1-1985,rhb,ob,right-hand bat,right-arm offbreak,8.0,bowler
+44671,UWMBCA Welegedara,P,Chanaka Welegedara,/db/PICTURES/CMS/305100/305101.jpg,20-3-1981,rhb,lfm,right-hand bat,left-arm fast-medium,8.0,bowler
+10223,N Deonarine,P,Narsingh Deonarine,/db/PICTURES/CMS/232600/232679.1.jpg,16-8-1983,lhb,ob,left-hand bat,right-arm offbreak,4.0,batter
+6401,WW Hinds,P,Wavell Hinds,/db/PICTURES/CMS/116500/116547.1.jpg,7-9-1976,lhb,rm,left-hand bat,right-arm medium,4.0,batter
+48087,NO Miller,P,Nikita Miller,/db/PICTURES/CMS/232700/232781.jpg,16-5-1982,rhb,sla,right-hand bat,slow left-arm orthodox,4.0,bowler
+45258,R Rampaul,P,Ravi Rampaul,/db/PICTURES/CMS/203200/203291.1.jpg,15-10-1984,lhb,rfm,left-hand bat,right-arm fast-medium,4.0,bowler
+49034,KAJ Roach,P,Kemar Roach,/db/PICTURES/CMS/305900/305913.1.jpg,30-6-1988,rhb,rfm,right-hand bat,right-arm fast-medium,4.0,bowler
+45326,P Utseya,C,Prosper Utseya,/db/PICTURES/CMS/203300/203327.1.jpg,26-3-1985,rhb,ob,right-hand bat,right-arm offbreak,9.0,bowler
+8068,AM Blignaut,P,Andy Blignaut,/db/PICTURES/CMS/121400/121436.1.jpg,1-8-1978,lhb,rmf,left-hand bat,right-arm medium-fast,9.0,allrounder
+47619,CJ Chibhabha,P,Chamu Chibhabha,/db/PICTURES/CMS/235600/235679.1.jpg,6-9-1986,rhb,rm,right-hand bat,right-arm medium,9.0,top-order batter
+45252,E Chigumbura,P,Elton Chigumbura,/db/PICTURES/CMS/203300/203323.1.jpg,14-3-1986,rhb,rfm,right-hand bat,right-arm fast-medium,9.0,allrounder
+10630,CK Coventry,P,Charles Coventry,/db/PICTURES/CMS/203300/203315.1.jpg,8-3-1983,rhb,lb,right-hand bat,legbreak,9.0,top-order batter
+47234,AG Cremer,P,Graeme Cremer,/db/PICTURES/CMS/203300/203343.1.jpg,19-9-1986,rhb,lbg,right-hand bat,legbreak googly,9.0,bowler
+47205,CR Ervine,P,Craig Ervine,/db/PICTURES/CMS/203300/203333.1.jpg,19-8-1985,lhb,ob,left-hand bat,right-arm offbreak,9.0,middle-order batter
+8247,GA Lamb,P,Greg Lamb,/db/PICTURES/CMS/128500/128553.1.jpg,4-3-1981,rhb,ob,right-hand bat,right-arm offbreak,9.0,allrounder
+49274,T Maruma,P,Timycen Maruma,/db/PICTURES/CMS/203300/203353.1.jpg,19-4-1988,rhb,lbg,right-hand bat,legbreak googly,9.0,top-order batter
+10423,H Masakadza,P,Hamilton Masakadza,/db/PICTURES/CMS/203300/203311.1.jpg,9-8-1983,rhb,rm,right-hand bat,right-arm medium,9.0,top-order batter
+47210,CB Mpofu,P,Chris Mpofu,/db/PICTURES/CMS/203300/203341.1.jpg,27-11-1985,rhb,rfm,right-hand bat,right-arm fast-medium,9.0,bowler
+7432,RW Price,P,Ray Price,/db/PICTURES/CMS/128500/128563.1.jpg,12-6-1976,rhb,sla,right-hand bat,slow left-arm orthodox,9.0,bowler
+45240,V Sibanda,P,Vusi Sibanda,/db/PICTURES/CMS/203300/203321.1.jpg,10-10-1983,rhb,"rm,ob",right-hand bat,"right-arm medium,right-arm offbreak",9.0,opening batter
+10421,T Taibu,WK,Tatenda Taibu,/db/PICTURES/CMS/128500/128564.1.jpg,14-5-1983,rhb,rm,right-hand bat,right-arm medium,9.0,wicketkeeper batter
+45253,BRM Taylor,P,Brendan Taylor,/db/PICTURES/CMS/203300/203325.1.jpg,6-2-1986,rhb,ob,right-hand bat,right-arm offbreak,9.0,wicketkeeper batter
+65399,Dawlat Zadran,P,Dawlat Zadran,/db/PICTURES/CMS/303200/303267.jpg,19-3-1988,rhb,rfm,right-hand bat,right-arm fast-medium,40.0,bowler
+57022,Gulbadin Naib,P,Gulbadin Naib,/db/PICTURES/CMS/303200/303268.jpg,4-6-1991,rhb,rmf,right-hand bat,right-arm medium-fast,40.0,batting allrounder
+59775,Izatullah Dawlatzai,P,Izatullah Dawlatzai,/db/PICTURES/CMS/303200/303276.jpg,10-5-1991,rhb,rfm,right-hand bat,right-arm fast-medium,35.0,bowler
+53112,Javed Ahmadi,P,Javed Ahmadi,/db/PICTURES/CMS/150100/150121.1.jpg,2-1-1992,rhb,ob,right-hand bat,right-arm offbreak,40.0,top-order batter
+65861,Najibullah Zadran,P,Najibullah Zadran,/db/PICTURES/CMS/303200/303283.jpg,18-2-1993,lhb,ob,left-hand bat,right-arm offbreak,40.0,middle-order batter
+67053,M Nasim Baras,P,Mohammad Nasim Baras,/db/PICTURES/CMS/150100/150130.1.jpg,30-5-1993,lhb,sla,left-hand bat,slow left-arm orthodox,40.0,bowler
+35384,GJ Bailey,C,George Bailey,/db/PICTURES/CMS/202500/202573.1.jpg,7-9-1982,rhb,rm,right-hand bat,right-arm medium,2.0,top-order batter
+64244,PJ Cummins,P,Pat Cummins,/db/PICTURES/CMS/309000/309079.png,8-5-1993,rhb,rf,right-hand bat,right-arm fast,2.0,bowler
+12912,XJ Doherty,P,Xavier Doherty,/db/PICTURES/CMS/202500/202583.1.jpg,22-11-1982,lhb,sla,left-hand bat,slow left-arm orthodox,2.0,bowler
+3328,GB Hogg,P,Brad Hogg,/db/PICTURES/CMS/202500/202589.1.jpg,6-2-1971,lhb,lws,left-hand bat,left-arm wrist-spin,2.0,allrounder
+54222,GJ Maxwell,P,Glenn Maxwell,/db/PICTURES/CMS/263500/263539.1.jpg,14-10-1988,rhb,ob,right-hand bat,right-arm offbreak,2.0,batting allrounder
+47693,CJ McKay,P,Clint McKay,/db/PICTURES/CMS/202600/202611.1.jpg,20-2-1983,rhb,rfm,right-hand bat,right-arm fast-medium,2.0,bowler
+53330,MA Starc,P,Mitchell Starc,/db/PICTURES/CMS/263500/263529.1.jpg,30-1-1990,lhb,lf,left-hand bat,left-arm fast,2.0,bowler
+49024,MS Wade,WK,Matthew Wade,/db/PICTURES/CMS/263500/263523.1.jpg,26-12-1987,lhb,rm,left-hand bat,right-arm medium,2.0,wicketkeeper batter
+58219,Abul Hasan,P,Abul Hasan,/db/PICTURES/CMS/302900/302969.jpg,5-8-1992,lhb,rmf,left-hand bat,right-arm medium-fast,25.0,bowler
+47283,Elias Sunny,P,Elias Sunny,/db/PICTURES/CMS/302900/302982.jpg,1-1-1986,lhb,sla,left-hand bat,slow left-arm orthodox,25.0,bowler
+48384,Farhad Reza,P,Farhad Reza,/db/PICTURES/CMS/303200/303233.jpg,16-6-1986,rhb,rfm,right-hand bat,right-arm fast-medium,25.0,allrounder
+52363,Nasir Hossain,P,Nasir Hossain,/db/PICTURES/CMS/202900/202961.1.jpg,30-11-1991,rhb,ob,right-hand bat,right-arm offbreak,25.0,allrounder
+47190,Ziaur Rahman,P,Ziaur Rahman,/db/PICTURES/CMS/149800/149862.jpg,2-12-1986,rhb,rfm,right-hand bat,right-arm fast-medium,25.0,allrounder
+52161,JM Bairstow,P,Jonny Bairstow,/db/PICTURES/CMS/304900/304906.jpg,26-9-1989,rhb,rm,right-hand bat,right-arm medium,1.0,wicketkeeper batter
+53296,DR Briggs,P,Danny Briggs,/db/PICTURES/CMS/305000/305021.jpg,30-4-1991,rhb,sla,right-hand bat,slow left-arm orthodox,1.0,bowler
+53271,JC Buttler,P,Jos Buttler,/db/PICTURES/CMS/303900/303969.jpg,8-9-1990,rhb,,right-hand bat,,1.0,wicketkeeper batter
+46924,JW Dernbach,P,Jade Dernbach,/db/PICTURES/CMS/305000/305018.jpg,3-3-1986,rhb,rfm,right-hand bat,right-arm fast-medium,1.0,bowler
+48529,ST Finn,P,Steven Finn,/db/PICTURES/CMS/304300/304344.jpg,4-4-1989,rhb,rfm,right-hand bat,right-arm fast-medium,1.0,bowler
+49532,AD Hales,P,Alex Hales,/db/PICTURES/CMS/304300/304332.jpg,3-1-1989,rhb,rm,right-hand bat,right-arm medium,1.0,opening batter
+34736,SR Patel,P,Samit Patel,/db/PICTURES/CMS/304300/304342.jpg,30-11-1984,rhb,sla,right-hand bat,slow left-arm orthodox,1.0,allrounder
+12894,R Ashwin,P,Ravichandran Ashwin,/db/PICTURES/CMS/302300/302395.jpg,17-9-1986,rhb,ob,right-hand bat,right-arm offbreak,6.0,bowling allrounder
+9022,L Balaji,P,Lakshmipathy Balaji,/db/PICTURES/CMS/304200/304209.png,27-9-1981,rhb,rmf,right-hand bat,right-arm medium-fast,6.0,bowler
+48965,AB Dinda,P,Ashok Dinda,/db/PICTURES/CMS/304200/304270.png,25-3-1984,rhb,rmf,right-hand bat,right-arm medium-fast,6.0,bowler
+49752,V Kohli,P,Virat Kohli,/db/PICTURES/CMS/289000/289002.1.jpg,5-11-1988,rhb,rm,right-hand bat,right-arm medium,6.0,top-order batter
+47624,MK Tiwary,P,Manoj Tiwary,/db/PICTURES/CMS/302900/302924.jpg,14-11-1985,rhb,lbg,right-hand bat,legbreak googly,6.0,batter
+7233,EC Joyce,P,Ed Joyce,/db/PICTURES/CMS/305000/305002.jpg,22-9-1978,lhb,rm,left-hand bat,right-arm medium,29.0,top-order batter
+8305,TJ Murtagh,P,Tim Murtagh,/db/PICTURES/CMS/305200/305271.jpg,2-8-1981,lhb,rfm,left-hand bat,right-arm fast-medium,29.0,bowler
+66284,MC Sorensen,P,Max Sorensen,/db/PICTURES/CMS/305200/305270.jpg,18-11-1985,rhb,rfm,right-hand bat,right-arm fast-medium,29.0,bowler
+60195,SR Thompson,P,Stuart Thompson,/db/PICTURES/CMS/304200/304296.png,15-8-1991,lhb,rmf,left-hand bat,right-arm medium-fast,29.0,bowler
+57609,DAJ Bracewell,P,Doug Bracewell,/db/PICTURES/CMS/303600/303639.png,28-9-1990,rhb,rfm,right-hand bat,right-arm fast-medium,5.0,bowler
+49104,RM Hira,P,Ronnie Hira,/db/PICTURES/CMS/303800/303810.png,23-1-1987,lhb,sla,left-hand bat,slow left-arm orthodox,5.0,bowler
+62153,AF Milne,P,Adam Milne,/db/PICTURES/CMS/303700/303779.png,13-4-1992,rhb,rf,right-hand bat,right-arm fast,5.0,bowler
+47492,BJ Watling,P,BJ Watling,/db/PICTURES/CMS/203000/203065.1.jpg,9-7-1985,rhb,,right-hand bat,,5.0,wicketkeeper batter
+51088,KS Williamson,P,Kane Williamson,/db/PICTURES/CMS/303600/303652.png,8-8-1990,rhb,ob,right-hand bat,right-arm offbreak,5.0,top-order batter
+53493,Asad Shafiq,P,Asad Shafiq,/db/PICTURES/CMS/302700/302766.jpg,28-1-1986,rhb,ob,right-hand bat,right-arm offbreak,7.0,middle-order batter
+8177,Imran Nazir,P,Imran Nazir,/db/PICTURES/CMS/203000/203083.1.jpg,16-12-1981,rhb,lb,right-hand bat,legbreak,7.0,opening batter
+48293,Nasir Jamshed,P,Nasir Jamshed,/db/PICTURES/CMS/302800/302822.jpg,6-12-1989,lhb,,left-hand bat,,7.0,opening batter
+56573,Raza Hasan,P,Raza Hasan,/db/PICTURES/CMS/302800/302882.jpg,8-7-1992,rhb,sla,right-hand bat,slow left-arm orthodox,7.0,bowler
+9952,HM Amla,P,Hashim Amla,/db/PICTURES/CMS/263700/263765.1.jpg,31-3-1983,rhb,"rm,ob",right-hand bat,"right-arm medium,right-arm offbreak",3.0,top-order batter
+48148,F Behardien,P,Farhaan Behardien,/db/PICTURES/CMS/263700/263766.1.jpg,9-10-1983,rhb,rfm,right-hand bat,right-arm fast-medium,3.0,batting allrounder
+46933,F du Plessis,P,Faf du Plessis,/db/PICTURES/CMS/317900/317961.jpg,13-7-1984,rhb,lb,right-hand bat,legbreak,3.0,middle-order batter
+48359,RE Levi,P,Richard Levi,/db/PICTURES/CMS/203100/203177.1.jpg,14-1-1988,rhb,rm,right-hand bat,right-arm medium,3.0,opening batter
+48182,LL Tsotsobe,P,Lonwabo Tsotsobe,/db/PICTURES/CMS/203100/203175.1.jpg,7-3-1984,rhb,lfm,right-hand bat,left-arm fast-medium,3.0,bowler
+68065,A Dananjaya,P,Akila Dananjaya,/db/PICTURES/CMS/348800/348839.gif,4-10-1993,lhb,"ob,lb",left-hand bat,"right-arm offbreak,legbreak",8.0,allrounder
+50290,RMS Eranga,P,Shaminda Eranga,/db/PICTURES/CMS/243000/243037.jpg,23-6-1986,rhb,rfm,right-hand bat,right-arm fast-medium,8.0,bowler
+8460,HMRKB Herath,P,Rangana Herath,/db/PICTURES/CMS/304900/304925.jpg,19-3-1978,lhb,sla,left-hand bat,slow left-arm orthodox,8.0,bowler
+24777,BMAJ Mendis,P,Jeevan Mendis,/db/PICTURES/CMS/305100/305162.jpg,15-1-1983,lhb,lb,left-hand bat,legbreak,8.0,allrounder
+52808,EMDY Munaweera,P,Dilshan Munaweera,/db/PICTURES/CMS/305100/305191.jpg,24-4-1989,rhb,ob,right-hand bat,right-arm offbreak,8.0,opening batter
+52405,HDRL Thirimanne,P,Lahiru Thirimanne,/db/PICTURES/CMS/305100/305107.jpg,9-8-1989,lhb,rmf,left-hand bat,right-arm medium-fast,8.0,top-order batter
+45772,S Badree,P,Samuel Badree,/db/PICTURES/CMS/238300/238331.jpg,9-3-1981,rhb,lb,right-hand bat,legbreak,4.0,bowler
+51054,DM Bravo,P,Darren Bravo,/db/PICTURES/CMS/203300/203309.1.jpg,6-2-1989,lhb,rm,left-hand bat,right-arm medium,4.0,top-order batter
+55194,J Charles,P,Johnson Charles,/db/PICTURES/CMS/144900/144991.1.jpg,14-1-1989,rhb,,right-hand bat,,4.0,wicketkeeper batter
+49039,SP Narine,P,Sunil Narine,/db/PICTURES/CMS/203300/203303.1.jpg,26-5-1988,lhb,ob,left-hand bat,right-arm offbreak,4.0,bowling allrounder
+51012,AD Russell,P,Andre Russell,/db/PICTURES/CMS/308900/308972.png,29-4-1988,rhb,rf,right-hand bat,right-arm fast,4.0,allrounder
+10238,MN Samuels,P,Marlon Samuels,/db/PICTURES/CMS/132300/132390.1.jpg,5-2-1981,rhb,ob,right-hand bat,right-arm offbreak,4.0,top-order batter
+45554,DR Smith,P,Dwayne Smith,/db/PICTURES/CMS/232800/232811.jpg,12-4-1983,rhb,rm,right-hand bat,right-arm medium,4.0,allrounder
+55140,KM Jarvis,P,Kyle Jarvis,/db/PICTURES/CMS/203300/203355.1.jpg,16-2-1989,rhb,rfm,right-hand bat,right-arm fast-medium,9.0,bowler
+10639,S Matsikenyeri,P,Stuart Matsikenyeri,/db/PICTURES/CMS/203300/203317.1.jpg,3-5-1983,rhb,ob,right-hand bat,right-arm offbreak,9.0,middle-order batter
+47618,F Mutizwa,P,Forster Mutizwa,/db/PICTURES/CMS/203300/203345.1.jpg,24-8-1985,rhb,ob,right-hand bat,right-arm offbreak,9.0,wicketkeeper batter
+60834,R Muzhange,P,Richard Muzhange,/db/PICTURES/CMS/149700/149734.1.jpg,30-1-1991,rhb,rm,right-hand bat,right-arm medium,9.0,
+49266,BV Vitori,P,Brian Vitori,/db/PICTURES/CMS/203300/203351.1.jpg,22-2-1990,lhb,lfm,left-hand bat,left-arm fast-medium,9.0,bowler
+48205,MN Waller,P,Malcolm Waller,/db/PICTURES/CMS/235600/235683.1.jpg,28-9-1984,rhb,ob,right-hand bat,right-arm offbreak,9.0,batter
+61857,Aftab Alam,P,Aftab Alam,/db/PICTURES/CMS/185500/185547.1.jpg,30-11-1992,rhb,rmf,right-hand bat,right-arm medium-fast,40.0,bowler
+59773,Amir Hamza,P,Amir Hamza,/db/PICTURES/CMS/181200/181271.jpg,15-8-1991,rhb,sla,right-hand bat,slow left-arm orthodox,40.0,bowling allrounder
+66395,Najeeb Tarakai,P,Najeeb Tarakai,/db/PICTURES/CMS/181200/181275.jpg,2-2-1991,rhb,ob,right-hand bat,right-arm offbreak,40.0,opening batter
+45487,DE Bollinger,P,Doug Bollinger,/db/PICTURES/CMS/128300/128313.1.jpg,24-7-1981,lhb,lfm,left-hand bat,left-arm fast-medium,2.0,bowler
+49958,NM Coulter-Nile,P,Nathan Coulter-Nile,/db/PICTURES/CMS/289900/289950.jpg,11-10-1987,rhb,rf,right-hand bat,right-arm fast,2.0,bowling allrounder
+50483,JP Faulkner,P,James Faulkner,/db/PICTURES/CMS/246100/246159.jpg,29-4-1990,rhb,lfm,right-hand bat,left-arm fast-medium,2.0,bowling allrounder
+35812,AJ Finch,P,Aaron Finch,/db/PICTURES/CMS/304000/304053.jpg,17-11-1986,rhb,sla,right-hand bat,slow left-arm orthodox,2.0,top-order batter
+6253,BJ Hodge,P,Brad Hodge,/db/PICTURES/CMS/146100/146172.1.jpg,29-12-1974,rhb,ob,right-hand bat,right-arm offbreak,2.0,top-order batter
+66372,JM Muirhead,P,James Muirhead,/db/PICTURES/CMS/181800/181813.1.jpg,30-7-1993,rhb,lb,right-hand bat,legbreak,2.0,bowler
+65060,Al-Amin Hossain,P,Al-Amin Hossain,/db/PICTURES/CMS/302900/302973.jpg,27-12-1992,rhb,rmf,right-hand bat,right-arm medium-fast,25.0,bowler
+58536,Anamul Haque,P,Anamul Haque,/db/PICTURES/CMS/302900/302976.jpg,16-12-1992,rhb,,right-hand bat,,25.0,wicketkeeper batter
+58225,Mominul Haque,P,Mominul Haque,/db/PICTURES/CMS/303100/303146.jpg,29-9-1991,lhb,sla,left-hand bat,slow left-arm orthodox,25.0,middle-order batter
+58220,Sabbir Rahman,P,Sabbir Rahman,/db/PICTURES/CMS/303200/303247.jpg,22-11-1991,rhb,lb,right-hand bat,legbreak,25.0,middle-order batter
+61947,Sohag Gazi,P,Sohag Gazi,/db/PICTURES/CMS/303100/303159.jpg,5-8-1991,rhb,ob,right-hand bat,right-arm offbreak,25.0,bowler
+66808,Taskin Ahmed,P,Taskin Ahmed,/db/PICTURES/CMS/303100/303169.jpg,3-4-1995,lhb,rf,left-hand bat,right-arm fast,25.0,bowler
+46597,MM Ali,P,Moeen Ali,/db/PICTURES/CMS/289600/289661.1.jpg,18-6-1987,lhb,ob,left-hand bat,right-arm offbreak,1.0,batting allrounder
+7822,IR Bell,P,Ian Bell,/db/PICTURES/CMS/304900/304986.jpg,11-4-1982,rhb,rm,right-hand bat,right-arm medium,1.0,top-order batter
+51421,CJ Jordan,P,Chris Jordan,/db/PICTURES/CMS/303900/303926.jpg,4-10-1988,rhb,rfm,right-hand bat,right-arm fast-medium,1.0,bowler
+48666,SD Parry,P,Stephen Parry,/db/PICTURES/CMS/305000/305025.jpg,12-1-1986,rhb,sla,right-hand bat,slow left-arm orthodox,1.0,bowler
+49496,CR Woakes,P,Chris Woakes,/db/PICTURES/CMS/304300/304336.jpg,2-3-1989,rhb,rfm,right-hand bat,right-arm fast-medium,1.0,allrounder
+52656,JE Root,P,Joe Root,/db/PICTURES/CMS/303900/303966.jpg,30-12-1990,rhb,"ob,lb",right-hand bat,"right-arm offbreak,legbreak",1.0,top-order batter
+53320,BA Stokes,P,Ben Stokes,/db/PICTURES/CMS/305000/305019.jpg,4-6-1991,lhb,rfm,left-hand bat,right-arm fast-medium,1.0,allrounder
+51511,JJ Atkinson,CWK,Jamie Atkinson,/db/PICTURES/CMS/181300/181395.1.jpg,23-8-1990,rhb,,right-hand bat,,19.0,wicketkeeper batter
+56926,Waqas Barkat,VCK,Waqas Barkat,/db/PICTURES/CMS/181300/181397.1.jpg,17-2-1990,rhb,lb,right-hand bat,legbreak,19.0,wicketkeeper batter
+59686,Aizaz Khan,P,Aizaz Khan,/db/PICTURES/CMS/181300/181399.1.jpg,21-3-1993,rhb,rmf,right-hand bat,right-arm medium-fast,19.0,allrounder
+66838,Babar Hayat,P,Babar Hayat,/db/PICTURES/CMS/181400/181407.1.jpg,5-1-1992,rhb,rm,right-hand bat,right-arm medium,19.0,batter
+61802,MS Chapman,P,Mark Chapman,/db/PICTURES/CMS/303800/303803.jpg,27-6-1994,lhb,sla,left-hand bat,slow left-arm orthodox,5.0,allrounder
+75287,Ehsan Nawaz,P,Ehsan Nawaz,/db/PICTURES/CMS/181400/181403.1.jpg,21-3-1995,rhb,rfm,right-hand bat,right-arm fast-medium,19.0,bowler
+66839,Haseeb Amjad,P,Haseeb Amjad,/db/PICTURES/CMS/181400/181405.1.jpg,11-11-1987,rhb,rmf,right-hand bat,right-arm medium-fast,19.0,bowler
+48482,Irfan Ahmed,P,Irfan Ahmed,/db/PICTURES/CMS/181400/181409.1.jpg,20-11-1989,rhb,rfm,right-hand bat,right-arm fast-medium,19.0,allrounder
+15350,JPR Lamsam,P,Roy Lamsam,/db/PICTURES/CMS/181400/181411.1.jpg,15-5-1980,rhb,rm,right-hand bat,right-arm medium,19.0,allrounder
+48750,Munir Dar,P,Munir Dar,/db/PICTURES/CMS/181400/181413.1.jpg,4-3-1974,rhb,sla,right-hand bat,slow left-arm orthodox,19.0,allrounder
+47983,Nadeem Ahmed,P,Nadeem Ahmed,/db/PICTURES/CMS/181400/181415.1.jpg,28-9-1987,rhb,sla,right-hand bat,slow left-arm orthodox,19.0,bowler
+19786,Najeeb Amar,P,Najeeb Amar,/db/PICTURES/CMS/181400/181417.1.jpg,25-9-1971,lhb,sla,left-hand bat,slow left-arm orthodox,19.0,allrounder
+56923,Nizakat Khan,P,Nizakat Khan,/db/PICTURES/CMS/235700/235723.1.jpg,8-7-1992,rhb,lb,right-hand bat,legbreak,19.0,allrounder
+59684,KD Shah,P,Kinchit Shah,/db/PICTURES/CMS/181400/181421.1.jpg,9-12-1995,lhb,ob,left-hand bat,right-arm offbreak,19.0,top-order batter
+49912,Tanwir Afzal,P,Tanwir Afzal,/db/PICTURES/CMS/277700/277799.1.jpg,12-6-1988,rhb,rfm,right-hand bat,right-arm fast-medium,19.0,allrounder
+57444,VR Aaron,P,Varun Aaron,/db/PICTURES/CMS/181800/181829.1.jpg,29-10-1989,rhb,rf,right-hand bat,right-arm fast,6.0,bowler
+10553,STR Binny,P,Stuart Binny,/db/PICTURES/CMS/304200/304260.png,3-6-1984,rhb,rm,right-hand bat,right-arm medium,6.0,allrounder
+15887,S Dhawan,P,Shikhar Dhawan,/db/PICTURES/CMS/302300/302373.jpg,5-12-1985,lhb,ob,left-hand bat,right-arm offbreak,6.0,opening batter
+54282,B Kumar,P,Bhuvneshwar Kumar,/db/PICTURES/CMS/304100/304194.png,5-2-1990,rhb,rm,right-hand bat,right-arm medium,6.0,bowler
+12562,A Mishra,P,Amit Mishra,/db/PICTURES/CMS/304100/304193.png,24-11-1982,rhb,lb,right-hand bat,legbreak,6.0,bowler
+63646,Mohammed Shami,P,Mohammed Shami,/db/PICTURES/CMS/304200/304210.png,3-9-1990,rhb,rf,right-hand bat,right-arm fast,6.0,bowler
+51096,AM Rahane,P,Ajinkya Rahane,/db/PICTURES/CMS/312100/312159.png,6-6-1988,rhb,rm,right-hand bat,right-arm medium,6.0,top-order batter
+66722,MM Sharma,P,Mohit Sharma,/db/PICTURES/CMS/307400/307489.png,18-9-1988,rhb,rm,right-hand bat,right-arm medium,6.0,bowler
+60322,AR McBrine,P,Andy McBrine,/db/PICTURES/CMS/305200/305252.jpg,30-4-1993,lhb,ob,left-hand bat,right-arm offbreak,29.0,bowling allrounder
+48527,AD Poynter,P,Andrew Poynter,/db/PICTURES/CMS/305200/305246.jpg,25-4-1987,rhb,ob,right-hand bat,right-arm offbreak,29.0,batter
+52639,JNK Shannon,P,James Shannon,/db/PICTURES/CMS/303900/303999.jpg,12-2-1990,rhb,ob,right-hand bat,right-arm offbreak,29.0,middle-order batter
+57785,CA Young,P,Craig Young,/db/PICTURES/CMS/367800/367864.4.jpg,4-4-1990,rhb,rfm,right-hand bat,right-arm fast-medium,29.0,bowler
+47455,P Khadka,C,Paras Khadka,/db/PICTURES/CMS/259900/259974.1.jpg,24-10-1987,rhb,"rmf,ob",right-hand bat,"right-arm medium-fast,right-arm offbreak",32.0,allrounder
+62001,PS Airee,P,Pradeep Airee,/db/PICTURES/CMS/173100/173101.1.jpg,1-9-1992,rhb,rm,right-hand bat,right-arm medium,32.0,wicketkeeper batter
+61652,B Bhandari,P,Binod Bhandari,/db/PICTURES/CMS/259900/259965.1.jpg,25-1-1990,rhb,rab,right-hand bat,right-arm bowler,32.0,wicketkeeper batter
+49182,A Bhattarai,P,Amrit Bhattarai,/db/PICTURES/CMS/173000/173097.1.jpg,30-12-1990,rhb,lm,right-hand bat,left-arm medium,32.0,bowler
+61764,NB Budayair,P,Naresh Budayair,/db/PICTURES/CMS/148400/148419.jpg,15-10-1991,rhb,rab,right-hand bat,right-arm bowler,32.0,opening batter
+24700,SP Gauchan,P,Shakti Gauchan,/db/PICTURES/CMS/260000/260033.1.jpg,22-4-1984,rhb,sla,right-hand bat,slow left-arm orthodox,32.0,bowler
+62000,SP Khakurel,WK,Subash Khakurel,/db/PICTURES/CMS/173000/173091.1.jpg,22-6-1987,rhb,,right-hand bat,,32.0,wicketkeeper batter
+49179,G Malla,P,Gyanendra Malla,/db/PICTURES/CMS/259900/259966.1.jpg,16-9-1990,rhb,,right-hand bat,,32.0,top-order batter
+54987,AK Mandal,P,Anil Mandal,/db/PICTURES/CMS/172900/172991.1.jpg,5-2-1991,rhb,,right-hand bat,,32.0,opening batter
+72575,JK Mukhiya,P,Jitendra Mukhiya,/db/PICTURES/CMS/172800/172825.1.jpg,22-11-1992,rhb,rmf,right-hand bat,right-arm medium-fast,32.0,bowler
+24689,B Regmi,P,Basant Regmi,/db/PICTURES/CMS/259900/259963.1.jpg,6-4-1986,lhb,sla,left-hand bat,slow left-arm orthodox,32.0,bowler
+65874,Sagar Pun,P,Sagar Pun,/db/PICTURES/CMS/260000/260031.1.jpg,1-3-1993,rhb,ob,right-hand bat,right-arm offbreak,32.0,opening batter
+74675,Sompal Kami,P,Sompal Kami,/db/PICTURES/CMS/260000/260035.1.jpg,2-2-1996,rhb,rfm,right-hand bat,right-arm fast-medium,32.0,bowling allrounder
+47457,S Vesawkar,P,Sharad Vesawkar,/db/PICTURES/CMS/330400/330470.1.jpg,6-10-1988,rhb,ob,right-hand bat,right-arm offbreak,32.0,middle-order batter
+52999,RK Vishwakarma,P,Rahul Vishwakarma,/db/PICTURES/CMS/173000/173085.1.jpg,19-10-1992,lhb,sla,left-hand bat,slow left-arm orthodox,32.0,
+59793,P Baskota,P,Prithu Baskota,/db/PICTURES/CMS/148400/148420.jpg,5-7-1992,rhb,ob,right-hand bat,right-arm offbreak,32.0,
+65872,A Karn,P,Avinash Karn,/db/PICTURES/CMS/173000/173089.1.jpg,4-2-1995,rhb,lm,right-hand bat,left-arm medium,32.0,bowler
+65446,Ahsan Malik,P,Ahsan Malik,/db/PICTURES/CMS/141500/141518.1.jpg,29-8-1989,rhb,rmf,right-hand bat,right-arm medium-fast,15.0,bowler
+48111,W Barresi,WK,Wesley Barresi,/db/PICTURES/CMS/322400/322483.png,3-5-1984,rhb,ob,right-hand bat,right-arm offbreak,15.0,batter
+63105,BN Cooper,P,Ben Cooper,/db/PICTURES/CMS/322400/322484.png,10-2-1992,lhb,rm,left-hand bat,right-arm medium,15.0,middle-order batter
+48736,TLW Cooper,P,Tom Cooper,/db/PICTURES/CMS/182100/182135.1.jpg,26-11-1986,rhb,ob,right-hand bat,right-arm offbreak,15.0,middle-order batter
+62816,TJ Heggelman,P,Tom Heggelman,/db/PICTURES/CMS/141500/141515.1.jpg,16-1-1987,rhb,rm,right-hand bat,right-arm medium,15.0,opening batter
+60259,VJ Kingma,P,Vivian Kingma,/db/PICTURES/CMS/366300/366324.4.jpg,23-10-1994,rhb,rmf,right-hand bat,right-arm medium-fast,15.0,bowler
+49218,SJ Myburgh,P,Stephan Myburgh,/db/PICTURES/CMS/141500/141516.1.jpg,28-2-1984,lhb,ob,left-hand bat,right-arm offbreak,15.0,opening batter
+58594,MJG Rippon,P,Michael Rippon,/db/PICTURES/CMS/312300/312307.1.jpg,14-9-1991,rhb,lws,right-hand bat,left-arm wrist-spin,5.0,allrounder
+53266,MR Swart,P,Michael Swart,/db/PICTURES/CMS/141500/141517.1.jpg,1-10-1982,rhb,ob,right-hand bat,right-arm offbreak,2.0,middle-order batter
+61845,LV van Beek,P,Logan van Beek,/db/PICTURES/CMS/329300/329356.4.jpg,7-9-1990,rhb,rmf,right-hand bat,right-arm medium-fast,15.0,bowler
+55246,T van der Gugten,P,Timm van der Gugten,/db/PICTURES/CMS/141500/141514.1.jpg,25-2-1991,rhb,rfm,right-hand bat,right-arm fast-medium,15.0,bowler
+51057,CJ Anderson,P,Corey Anderson,/db/PICTURES/CMS/303600/303609.jpg,13-12-1990,lhb,lmf,left-hand bat,left-arm medium-fast,11.0,batting allrounder
+51092,TA Boult,P,Trent Boult,/db/PICTURES/CMS/303600/303673.jpg,22-7-1989,rhb,lfm,right-hand bat,left-arm fast-medium,5.0,bowler
+47485,AP Devcich,P,Anton Devcich,/db/PICTURES/CMS/303700/303784.png,28-9-1985,lhb,sla,left-hand bat,slow left-arm orthodox,5.0,opening batter
+53716,MJ McClenaghan,P,Mitchell McClenaghan,/db/PICTURES/CMS/303800/303805.png,11-6-1986,lhb,lfm,left-hand bat,left-arm fast-medium,5.0,bowler
+49106,C Munro,P,Colin Munro,/db/PICTURES/CMS/303700/303792.png,11-3-1987,lhb,rmf,left-hand bat,right-arm medium-fast,5.0,opening batter
+57196,JDS Neesham,P,James Neesham,/db/PICTURES/CMS/303600/303603.jpg,17-9-1990,lhb,rmf,left-hand bat,right-arm medium-fast,5.0,batting allrounder
+17850,L Ronchi,WK,Luke Ronchi,/db/PICTURES/CMS/303600/303605.jpg,23-4-1981,rhb,,right-hand bat,,5.0,wicketkeeper batter
+56563,Bilawal Bhatti,P,Bilawal Bhatti,/db/PICTURES/CMS/171800/171839.1.jpg,17-9-1991,rhb,rmf,right-hand bat,right-arm medium-fast,7.0,bowler
+49906,Junaid Khan,P,Junaid Khan,/db/PICTURES/CMS/302800/302819.jpg,24-12-1989,rhb,lf,right-hand bat,left-arm fast,7.0,bowler
+48987,Mohammad Talha,P,Mohammad Talha,/db/PICTURES/CMS/181600/181647.jpg,15-10-1988,rhb,rmf,right-hand bat,right-arm medium-fast,7.0,bowler
+48984,Sharjeel Khan,P,Sharjeel Khan,/db/PICTURES/CMS/236800/236867.jpg,14-8-1989,lhb,lb,left-hand bat,legbreak,7.0,opening batter
+47686,Sohaib Maqsood,P,Sohaib Maqsood,/db/PICTURES/CMS/171800/171841.1.jpg,15-4-1987,rhb,ob,right-hand bat,right-arm offbreak,7.0,middle-order batter
+45764,Zulfiqar Babar,P,Zulfiqar Babar,/db/PICTURES/CMS/163400/163403.1.jpg,10-12-1978,rhb,sla,right-hand bat,slow left-arm orthodox,7.0,bowler
+58406,Q de Kock,WK,Quinton de Kock,/db/PICTURES/CMS/317900/317947.jpg,17-12-1992,lhb,,left-hand bat,,3.0,wicketkeeper batter
+58511,BE Hendricks,P,Beuran Hendricks,/db/PICTURES/CMS/317900/317967.jpg,8-6-1990,lhb,lfm,left-hand bat,left-arm fast-medium,3.0,bowler
+19422,Imran Tahir,P,Imran Tahir,/db/PICTURES/CMS/263700/263772.1.jpg,27-3-1979,rhb,lbg,right-hand bat,legbreak googly,3.0,bowler
+53891,DA Miller,P,David Miller,/db/PICTURES/CMS/317900/317964.jpg,10-6-1989,lhb,ob,left-hand bat,right-arm offbreak,3.0,middle-order batter
+46936,AM Phangiso,P,Aaron Phangiso,/db/PICTURES/CMS/238100/238129.jpg,21-1-1984,rhb,sla,right-hand bat,slow left-arm orthodox,3.0,bowler
+46995,RAS Lakmal,P,Suranga Lakmal,/db/PICTURES/CMS/342100/342101.4.jpg,10-3-1987,rhb,rfm,right-hand bat,right-arm fast-medium,8.0,bowler
+52373,MDKJ Perera,P,Kusal Perera,/db/PICTURES/CMS/263600/263669.1.png,17-8-1990,lhb,,left-hand bat,,8.0,wicketkeeper batter
+50378,S Prasanna,P,Seekkuge Prasanna,/db/PICTURES/CMS/305100/305108.jpg,27-6-1985,rhb,lb,right-hand bat,legbreak,8.0,allrounder
+50837,SMSM Senanayake,P,Sachithra Senanayake,/db/PICTURES/CMS/305100/305112.jpg,9-2-1985,rhb,ob,right-hand bat,right-arm offbreak,8.0,bowler
+56648,PC de Silva,P,Chaturanga de Silva,/db/PICTURES/CMS/305100/305169.jpg,17-1-1990,lhb,sla,left-hand bat,slow left-arm orthodox,8.0,allrounder
+36602,Khurram Khan,C,Khurram Khan,/db/PICTURES/CMS/173000/173035.1.jpg,21-6-1971,lhb,sla,left-hand bat,slow left-arm orthodox,27.0,top-order batter
+49463,Ahmed Raza,P,Ahmed Raza,/db/PICTURES/CMS/173000/173015.1.jpg,10-10-1988,rhb,sla,right-hand bat,slow left-arm orthodox,27.0,bowler
+46491,Amjad Ali,WK,Amjad Ali,/db/PICTURES/CMS/181200/181263.1.jpg,25-9-1979,lhb,lb,left-hand bat,legbreak,27.0,batter
+48412,Amjad Javed,P,Amjad Javed,/db/PICTURES/CMS/173000/173029.1.jpg,5-7-1980,rhb,rm,right-hand bat,right-arm medium,27.0,allrounder
+62025,Faizan Asif,P,Faizan Asif,/db/PICTURES/CMS/181800/181849.jpg,21-12-1992,lhb,,left-hand bat,,27.0,opening batter
+12206,AM Guruge,P,Manjula Guruge,/db/PICTURES/CMS/173000/173023.1.jpg,14-2-1981,rhb,lfm,right-hand bat,left-arm fast-medium,27.0,bowler
+70560,Kamran Shazad,P,Kamran Shazad,/db/PICTURES/CMS/173000/173037.1.jpg,25-8-1980,rhb,rmf,right-hand bat,right-arm medium-fast,27.0,bowler
+56493,Moaaz Qazi,P,Moaaz Qazi,/db/PICTURES/CMS/179800/179861.1.jpg,15-10-1995,rhb,ob,right-hand bat,right-arm offbreak,27.0,
+62044,SP Patil,P,Swapnil Patil,/db/PICTURES/CMS/173000/173025.1.jpg,15-4-1985,rhb,,right-hand bat,,27.0,wicketkeeper batter
+53033,Rohan Mustafa,P,Rohan Mustafa,/db/PICTURES/CMS/173000/173017.1.jpg,7-10-1988,lhb,ob,left-hand bat,right-arm offbreak,27.0,top-order batter
+70999,Rohit Singh,P,Rohit Singh,/db/PICTURES/CMS/253600/253665.1.jpg,22-10-1993,rhb,,right-hand bat,,27.0,
+45742,Shaiman Anwar,P,Shaiman Anwar,/db/PICTURES/CMS/318000/318000.jpg,15-3-1979,rhb,lbg,right-hand bat,legbreak googly,27.0,top-order batter
+46388,Sharif Asadullah,P,Sharif Asadullah,/db/PICTURES/CMS/181800/181851.jpg,14-12-1984,rhb,rfm,right-hand bat,right-arm fast-medium,27.0,bowler
+56477,V Shetty,P,Vikrant Shetty,/db/PICTURES/CMS/181200/181261.1.jpg,17-10-1983,rhb,ob,right-hand bat,right-arm offbreak,27.0,middle-order batter
+15257,EHSN Silva,P,Shadeep Silva,/db/PICTURES/CMS/173000/173047.1.jpg,18-8-1978,lhb,sla,left-hand bat,slow left-arm orthodox,27.0,bowler
+64443,SS Cottrell,P,Sheldon Cottrell,/db/PICTURES/CMS/232700/232765.jpg,19-8-1989,rhb,lfm,right-hand bat,left-arm fast-medium,4.0,bowler
+53391,K Santokie,P,Krishmar Santokie,/db/PICTURES/CMS/181800/181845.jpg,20-12-1984,lhb,lm,left-hand bat,left-arm medium,4.0,bowler
+60782,TL Chatara,P,Tendai Chatara,/db/PICTURES/CMS/203300/203357.1.jpg,28-2-1991,rhb,rfm,right-hand bat,right-arm fast-medium,9.0,bowler
+49272,TP Kamungozi,P,Tafadzwa Kamungozi,/db/PICTURES/CMS/181200/181299.1.jpg,8-6-1987,rhb,lb,right-hand bat,legbreak,9.0,allrounder
+56570,SW Masakadza,P,Shingi Masakadza,/db/PICTURES/CMS/128500/128552.1.jpg,4-9-1986,rhb,rfm,right-hand bat,right-arm fast-medium,9.0,bowler
+59383,N Mushangwe,P,Natsai M'shangwe,/db/PICTURES/CMS/181200/181295.jpg,9-2-1991,rhb,lb,right-hand bat,legbreak,9.0,bowler
+47209,T Panyangara,P,Tinashe Panyangara,/db/PICTURES/CMS/203300/203337.1.jpg,21-10-1985,rhb,rfm,right-hand bat,right-arm fast-medium,9.0,bowler
+52319,Sikandar Raza,P,Sikandar Raza,/db/PICTURES/CMS/181300/181305.1.jpg,24-4-1986,rhb,"ob,lb",right-hand bat,"right-arm offbreak,legbreak",9.0,batting allrounder
+47206,SC Williams,P,Sean Williams,/db/PICTURES/CMS/235600/235675.1.jpg,26-9-1986,lhb,sla,left-hand bat,slow left-arm orthodox,9.0,middle-order batter
+79159,Rashid Khan,P,Rashid Khan,/db/PICTURES/CMS/289200/289234.1.jpg,20-9-1998,rhb,lbg,right-hand bat,legbreak googly,40.0,bowling allrounder
+74913,Usman Ghani,P,Usman Ghani,/db/PICTURES/CMS/179000/179063.1.jpg,20-11-1996,rhb,,right-hand bat,,40.0,opening batter
+64929,AC Agar,P,Ashton Agar,/db/PICTURES/CMS/312100/312154.png,14-10-1993,lhb,sla,left-hand bat,slow left-arm orthodox,2.0,bowler
+49002,JW Hastings,P,John Hastings,/db/PICTURES/CMS/263500/263532.1.jpg,4-11-1985,rhb,rfm,right-hand bat,right-arm fast-medium,2.0,allrounder
+51367,JR Hazlewood,P,Josh Hazlewood,/db/PICTURES/CMS/263500/263531.1.jpg,8-1-1991,lhb,rfm,left-hand bat,right-arm fast-medium,2.0,bowler
+48671,UT Khawaja,P,Usman Khawaja,/db/PICTURES/CMS/289900/289951.jpg,18-12-1986,lhb,rm,left-hand bat,right-arm medium,2.0,top-order batter
+50771,MR Marsh,P,Mitchell Marsh,/db/PICTURES/CMS/356700/356780.1.png,20-10-1991,rhb,rm,right-hand bat,right-arm medium,2.0,allrounder
+35816,PM Nevill,WK,Peter Nevill,/db/PICTURES/CMS/237600/237665.jpg,13-10-1985,rhb,,right-hand bat,,2.0,wicketkeeper
+62500,AJ Tye,P,Andrew Tye,/db/PICTURES/CMS/237600/237671.jpg,12-12-1986,rhb,rmf,right-hand bat,right-arm medium-fast,2.0,bowler
+58435,A Zampa,P,Adam Zampa,/db/PICTURES/CMS/263500/263543.1.jpg,31-3-1992,rhb,lbg,right-hand bat,legbreak googly,2.0,bowler
+67278,Abu Hider,P,Abu Hider,/db/PICTURES/CMS/303200/303229.jpg,14-2-1996,rhb,lfm,right-hand bat,left-arm fast-medium,25.0,bowler
+54674,Mustafizur Rahman,P,Mustafizur Rahman,/db/PICTURES/CMS/263500/263578.jpg,6-9-1995,lhb,lfm,left-hand bat,left-arm fast-medium,25.0,bowler
+60030,Nurul Hasan,P,Nurul Hasan,/db/PICTURES/CMS/303200/303243.jpg,21-11-1993,rhb,,right-hand bat,,25.0,wicketkeeper batter
+51242,Saqlain Sajib,P,Saqlain Sajib,/db/PICTURES/CMS/303200/303250.jpg,1-12-1988,lhb,sla,left-hand bat,slow left-arm orthodox,25.0,bowler
+59805,Shuvagata Hom,P,Shuvagata Hom,/db/PICTURES/CMS/329400/329407.1.jpg,11-11-1986,rhb,ob,right-hand bat,right-arm offbreak,25.0,batting allrounder
+61619,Soumya Sarkar,P,Soumya Sarkar,/db/PICTURES/CMS/303100/303160.jpg,25-2-1993,lhb,rmf,left-hand bat,right-arm medium-fast,25.0,batting allrounder
+45560,Arafat Sunny,P,Arafat Sunny,/db/PICTURES/CMS/303200/303231.jpg,29-9-1986,lhb,sla,left-hand bat,slow left-arm orthodox,25.0,bowler
+52241,SW Billings,P,Sam Billings,/db/PICTURES/CMS/305000/305029.jpg,15-6-1991,rhb,,right-hand bat,,1.0,wicketkeeper batter
+48572,LA Dawson,P,Liam Dawson,/db/PICTURES/CMS/304300/304329.jpg,1-3-1990,rhb,sla,right-hand bat,slow left-arm orthodox,1.0,allrounder
+45443,LE Plunkett,P,Liam Plunkett,/db/PICTURES/CMS/304300/304347.jpg,6-4-1985,rhb,rf,right-hand bat,right-arm fast,1.0,bowler
+52290,JJ Roy,P,Jason Roy,/db/PICTURES/CMS/303900/303963.jpg,21-7-1990,rhb,,right-hand bat,,1.0,opening batter
+62587,RJW Topley,P,Reece Topley,/db/PICTURES/CMS/356800/356811.1.png,21-2-1994,rhb,lfm,right-hand bat,left-arm fast-medium,1.0,bowler
+52122,JM Vince,P,James Vince,/db/PICTURES/CMS/303900/303961.jpg,14-3-1991,rhb,rm,right-hand bat,right-arm medium,1.0,batter
+53121,DJ Willey,P,David Willey,/db/PICTURES/CMS/305000/305028.jpg,28-2-1990,lhb,lfm,left-hand bat,left-arm fast-medium,1.0,bowling allrounder
+70978,Waqas Khan,P,Waqas Khan,/db/PICTURES/CMS/216700/216701.1.jpg,10-3-1999,rhb,rmf,right-hand bat,right-arm medium-fast,19.0,batter
+62189,Anshuman Rath,P,Anshy Rath,/db/PICTURES/CMS/235700/235705.1.jpg,5-11-1997,lhb,sla,left-hand bat,slow left-arm orthodox,19.0,wicketkeeper batter
+5656,RJ Campbell,P,Ryan Campbell,/db/PICTURES/CMS/235700/235741.1.jpg,7-2-1972,rhb,ob,right-hand bat,right-arm offbreak,19.0,wicketkeeper batter
+84759,C Carter,WK,Christopher Carter,/db/PICTURES/CMS/235700/235703.1.jpg,9-9-1997,rhb,,right-hand bat,,19.0,wicketkeeper batter
+64486,A Mehmood,P,Adil Mehmood,/db/PICTURES/CMS/235700/235715.1.jpg,31-12-1988,rhb,rm,right-hand bat,right-arm medium,19.0,bowler
+70640,JJ Bumrah,P,Jasprit Bumrah,/db/PICTURES/CMS/356800/356849.1.png,6-12-1993,rhb,rf,right-hand bat,right-arm fast,6.0,bowler
+66253,P Negi,P,Pawan Negi,/db/PICTURES/CMS/309000/309080.png,6-1-1993,lhb,sla,left-hand bat,slow left-arm orthodox,6.0,bowler
+51454,MK Pandey,P,Manish Pandey,/db/PICTURES/CMS/302500/302572.jpg,10-9-1989,rhb,rm,right-hand bat,right-arm medium,6.0,top-order batter
+70633,HH Pandya,P,Hardik Pandya,/db/PICTURES/CMS/304200/304201.png,11-10-1993,rhb,rmf,right-hand bat,right-arm medium-fast,6.0,allrounder
+52628,A Balbirnie,P,Andy Balbirnie,/db/PICTURES/CMS/305200/305250.jpg,28-12-1990,rhb,ob,right-hand bat,right-arm offbreak,29.0,batter
+53129,SW Poynter,P,Stuart Poynter,/db/PICTURES/CMS/304200/304295.png,18-10-1990,rhb,,right-hand bat,,29.0,wicketkeeper batter
+71363,MP O'Dowd,P,Max O'Dowd,/db/PICTURES/CMS/217400/217449.1.jpg,4-3-1994,rhb,ob,right-hand bat,right-arm offbreak,15.0,opening batter
+56854,PA van Meekeren,P,Paul van Meekeren,/db/PICTURES/CMS/171300/171339.1.jpg,15-1-1993,rhb,rfm,right-hand bat,right-arm fast-medium,15.0,bowler
+6329,GD Elliott,P,Grant Elliott,/db/PICTURES/CMS/303600/303640.png,21-3-1979,rhb,rm,right-hand bat,right-arm medium,5.0,allrounder
+66842,HM Nicholls,P,Henry Nicholls,/db/PICTURES/CMS/303600/303600.jpg,15-11-1991,lhb,ob,left-hand bat,right-arm offbreak,5.0,top-order batter
+64864,MJ Santner,P,Mitchell Santner,/db/PICTURES/CMS/356800/356846.1.png,5-2-1992,lhb,sla,left-hand bat,slow left-arm orthodox,5.0,bowling allrounder
+67586,IS Sodhi,P,Ish Sodhi,/db/PICTURES/CMS/303600/303602.jpg,31-10-1992,rhb,lb,right-hand bat,legbreak,5.0,bowler
+20099,Sultan Ahmed,CWK,Sultan Ahmed,/db/PICTURES/CMS/235600/235685.1.jpg,18-6-1977,rhb,,right-hand bat,,37.0,wicketkeeper batter
+62411,Aamir Kaleem,P,Aamir Kaleem,/db/PICTURES/CMS/238100/238117.jpg,20-11-1981,lhb,sla,left-hand bat,slow left-arm orthodox,37.0,middle-order batter
+24704,Adnan Ilyas,P,Adnan Ilyas,/db/PICTURES/CMS/235600/235669.1.jpg,30-12-1984,rhb,rm,right-hand bat,right-arm medium,37.0,
+59001,Amir Ali,P,Amir Ali,/db/PICTURES/CMS/235600/235691.1.jpg,24-11-1978,rhb,ob,right-hand bat,right-arm offbreak,37.0,batter
+70922,M Ansari,P,Munis Ansari,/db/PICTURES/CMS/235600/235693.1.jpg,1-4-1984,rhb,rfm,right-hand bat,right-arm fast-medium,37.0,bowler
+87127,Bilal Khan,P,Bilal Khan,/db/PICTURES/CMS/362400/362499.4.jpg,10-4-1987,lhb,lmf,left-hand bat,left-arm medium-fast,37.0,bowler
+53016,Jatinder Singh,P,Jatinder Singh,/db/PICTURES/CMS/235600/235695.1.jpg,5-3-1989,rhb,ob,right-hand bat,right-arm offbreak,37.0,batter
+68463,Khawar Ali,P,Khawar Ali,/db/PICTURES/CMS/235700/235701.1.jpg,20-12-1985,rhb,lb,right-hand bat,legbreak,37.0,opening batter
+67018,AV Lalcheta,P,Ajay Lalcheta,/db/PICTURES/CMS/238100/238119.jpg,22-10-1983,lhb,sla,left-hand bat,slow left-arm orthodox,37.0,batting allrounder
+83379,Mehran Khan,P,Mehran Khan,/db/PICTURES/CMS/235600/235697.1.jpg,13-4-1987,rhb,rmf,right-hand bat,right-arm medium-fast,37.0,batter
+66962,RJ Ranpura,P,Rajeshkumar Ranpura,/db/PICTURES/CMS/238100/238121.jpg,17-7-1983,lhb,rfm,left-hand bat,right-arm fast-medium,37.0,bowler
+59720,Sufyan Mehmood,P,Sufyan Mehmood,/db/PICTURES/CMS/243700/243719.1.jpg,21-10-1991,lhb,rm,left-hand bat,right-arm medium,37.0,bowler
+53873,VS Wategaonkar,P,Vaibhav Wategaonkar,/db/PICTURES/CMS/235700/235709.1.jpg,30-8-1982,lhb,,left-hand bat,,37.0,top-order batter
+68465,Zeeshan Maqsood,P,Zeeshan Maqsood,/db/PICTURES/CMS/187400/187455.1.jpg,24-10-1987,lhb,sla,left-hand bat,slow left-arm orthodox,37.0,opening batter
+53614,Zeeshan Siddiqui,P,Zeeshan Siddiqui,/db/PICTURES/CMS/238100/238123.jpg,22-7-1979,rhb,lb,right-hand bat,legbreak,37.0,batter
+49125,Anwar Ali,P,Anwar Ali,/db/PICTURES/CMS/302800/302868.jpg,25-11-1987,rhb,rmf,right-hand bat,right-arm medium-fast,7.0,bowler
+48982,Imad Wasim,P,Imad Wasim,/db/PICTURES/CMS/302800/302871.jpg,18-12-1988,lhb,sla,left-hand bat,slow left-arm orthodox,7.0,allrounder
+61264,Mohammad Irfan,P,Mohammad Irfan,/db/PICTURES/CMS/312100/312182.png,6-6-1982,rhb,lf,right-hand bat,left-arm fast,7.0,bowler
+56883,Mohammad Nawaz,P,Mohammad Nawaz,/db/PICTURES/CMS/236800/236859.jpg,21-3-1994,lhb,sla,left-hand bat,slow left-arm orthodox,7.0,allrounder
+48983,Sarfaraz Ahmed,WK,Sarfaraz Ahmed,/db/PICTURES/CMS/302800/302886.jpg,22-5-1987,rhb,ob,right-hand bat,right-arm offbreak,7.0,wicketkeeper batter
+24723,Wahab Riaz,P,Wahab Riaz,/db/PICTURES/CMS/302800/302829.jpg,28-6-1985,rhb,lf,right-hand bat,left-arm fast,7.0,bowler
+56880,Babar Azam,P,Babar Azam,/db/PICTURES/CMS/302700/302768.jpg,15-10-1994,rhb,ob,right-hand bat,right-arm offbreak,7.0,batter
+63619,Iftikhar Ahmed,P,Iftikhar Ahmed,/db/PICTURES/CMS/194700/194751.1.jpg,3-9-1990,rhb,ob,right-hand bat,right-arm offbreak,7.0,middle-order batter
+46385,Khurram Manzoor,P,Khurram Manzoor,/db/PICTURES/CMS/105700/105726.jpg,10-6-1986,rhb,ob,right-hand bat,right-arm offbreak,7.0,opening batter
+62088,Rumman Raees,P,Rumman Raees,/db/PICTURES/CMS/302800/302883.jpg,18-10-1991,rhb,lmf,right-hand bat,left-arm medium-fast,7.0,bowler
+62583,PL Mommsen,C,Preston Mommsen,/db/PICTURES/CMS/206000/206011.1.jpg,14-10-1987,rhb,ob,right-hand bat,right-arm offbreak,30.0,opening batter
+60303,MH Cross,WK,Matthew Cross,/db/PICTURES/CMS/172800/172881.1.jpg,15-10-1992,rhb,,right-hand bat,,30.0,wicketkeeper batter
+59951,JH Davey,P,Josh Davey,/db/PICTURES/CMS/206000/206007.1.jpg,3-8-1990,rhb,rmf,right-hand bat,right-arm medium-fast,30.0,bowler
+8143,CD de Lange,P,Con de Lange,/db/PICTURES/CMS/322400/322434.png,11-2-1981,rhb,sla,right-hand bat,slow left-arm orthodox,30.0,bowling allrounder
+59616,AC Evans,P,Alasdair Evans,/db/PICTURES/CMS/206000/206009.1.jpg,12-1-1989,rhb,rmf,right-hand bat,right-arm medium-fast,30.0,bowler
+60198,MA Leask,P,Michael Leask,/db/PICTURES/CMS/172800/172875.1.jpg,29-10-1990,rhb,ob,right-hand bat,right-arm offbreak,30.0,allrounder
+52184,MW Machan,P,Matt Machan,/db/PICTURES/CMS/172800/172873.1.jpg,15-2-1991,lhb,ob,left-hand bat,right-arm offbreak,1.0,top-order batter
+63124,GT Main,P,Gavin Main,/db/PICTURES/CMS/179800/179829.1.jpg,28-2-1995,rhb,rf,right-hand bat,right-arm fast,30.0,bowler
+72409,HG Munsey,P,George Munsey,/db/PICTURES/CMS/215100/215121.1.jpg,21-2-1993,lhb,rmf,left-hand bat,right-arm medium-fast,30.0,opening batter
+60201,SM Sharif,P,Safyaan Sharif,/db/PICTURES/CMS/172800/172867.1.jpg,24-5-1991,rhb,rmf,right-hand bat,right-arm medium-fast,30.0,bowler
+57140,RML Taylor,P,Rob Taylor,/db/PICTURES/CMS/172800/172865.1.jpg,21-12-1989,lhb,lm,left-hand bat,left-arm medium,30.0,allrounder
+71959,MRJ Watt,P,Mark Watt,/db/PICTURES/CMS/179800/179841.1.jpg,29-7-1996,lhb,sla,left-hand bat,slow left-arm orthodox,30.0,bowler
+52222,KJ Abbott,P,Kyle Abbott,/db/PICTURES/CMS/267200/267241.1.jpg,18-6-1987,rhb,rfm,right-hand bat,right-arm fast-medium,3.0,bowler
+61832,CH Morris,P,Chris Morris,/db/PICTURES/CMS/263700/263779.1.jpg,30-4-1987,rhb,rfm,right-hand bat,right-arm fast-medium,3.0,bowling allrounder
+67296,K Rabada,P,Kagiso Rabada,/db/PICTURES/CMS/317900/317954.jpg,25-5-1995,lhb,rf,left-hand bat,right-arm fast,3.0,bowler
+53649,RR Rossouw,P,Rilee Rossouw,/db/PICTURES/CMS/312100/312176.png,9-10-1989,lhb,ob,left-hand bat,right-arm offbreak,3.0,top-order batter
+48777,D Wiese,P,David Wiese,/db/PICTURES/CMS/312100/312185.png,18-5-1985,rhb,rmf,right-hand bat,right-arm medium-fast,28.0,allrounder
+67342,PVD Chameera,P,Dushmantha Chameera,/db/PICTURES/CMS/305100/305114.jpg,11-1-1992,rhb,rf,right-hand bat,right-arm fast,8.0,bowler
+60602,GSNFG Jayasuriya,P,Shehan Jayasuriya,/db/PICTURES/CMS/305100/305177.jpg,12-9-1991,lhb,ob,left-hand bat,right-arm offbreak,8.0,batting allrounder
+61690,MD Shanaka,P,Dasun Shanaka,/db/PICTURES/CMS/327900/327999.7.jpg,9-9-1991,rhb,rm,right-hand bat,right-arm medium,8.0,allrounder
+48821,TAM Siriwardana,P,Milinda Siriwardana,/db/PICTURES/CMS/303800/303842.png,4-12-1985,lhb,sla,left-hand bat,slow left-arm orthodox,8.0,allrounder
+58084,JDF Vandersay,P,Jeffrey Vandersay,/db/PICTURES/CMS/305100/305178.jpg,5-2-1990,rhb,lb,right-hand bat,legbreak,8.0,bowler
+61131,N Dickwella,P,Niroshan Dickwella,/db/PICTURES/CMS/263600/263673.1.png,23-6-1993,lhb,,left-hand bat,,8.0,wicketkeeper batter
+62457,CR Brathwaite,P,Carlos Brathwaite,/db/PICTURES/CMS/312100/312190.png,18-7-1988,rhb,rfm,right-hand bat,right-arm fast-medium,4.0,allrounder
+59339,JO Holder,P,Jason Holder,/db/PICTURES/CMS/214700/214757.1.jpg,5-11-1991,rhb,rmf,right-hand bat,right-arm medium-fast,4.0,bowling allrounder
+61413,E Lewis,P,Evin Lewis,/db/PICTURES/CMS/232700/232753.jpg,27-12-1991,lhb,,left-hand bat,,4.0,opening batter
+53434,AR Nurse,P,Ashley Nurse,/db/PICTURES/CMS/238300/238347.jpg,22-12-1988,rhb,ob,right-hand bat,right-arm offbreak,4.0,bowler
+49271,TS Chisoro,P,Tendai Chisoro,/db/PICTURES/CMS/235600/235689.1.jpg,12-2-1988,lhb,"lfm,sla",left-hand bat,"left-arm fast-medium,slow left-arm orthodox",9.0,bowler
+67884,WP Masakadza,P,Wellington Masakadza,/db/PICTURES/CMS/148300/148312.jpg,4-10-1993,lhb,sla,left-hand bat,slow left-arm orthodox,9.0,bowler
+55144,PJ Moor,P,Peter Moor,/db/PICTURES/CMS/235600/235677.1.jpg,2-2-1991,rhb,ob,right-hand bat,right-arm offbreak,29.0,wicketkeeper batter
+45215,T Mupariwa,P,Tawanda Mupariwa,/db/PICTURES/CMS/205300/205387.1.jpg,16-4-1985,rhb,rfm,right-hand bat,right-arm fast-medium,9.0,bowler
+49268,R Mutumbami,WK,Richmond Mutumbami,/db/PICTURES/CMS/341600/341663.png,11-6-1989,rhb,ob,right-hand bat,right-arm offbreak,9.0,wicketkeeper batter
+59384,DT Tiripano,P,Donald Tiripano,/db/PICTURES/CMS/235600/235673.1.jpg,17-3-1988,rhb,rfm,right-hand bat,right-arm fast-medium,9.0,bowler
+66876,LM Jongwe,P,Luke Jongwe,/db/PICTURES/CMS/345200/345223.5.jpg,6-2-1995,rhb,rfm,right-hand bat,right-arm fast-medium,9.0,allrounder
+62307,N Madziva,P,Neville Madziva,/db/PICTURES/CMS/154100/154118.1.jpg,2-8-1991,rhb,rmf,right-hand bat,right-arm medium-fast,9.0,allrounder
+67750,Fareed Ahmad,P,Fareed Ahmad,/db/PICTURES/CMS/179000/179087.1.jpg,10-8-1994,lhb,lfm,left-hand bat,left-arm fast-medium,40.0,bowler
+61861,Hashmatullah Shahidi,P,Hashmatullah Shahidi,/db/PICTURES/CMS/303200/303271.jpg,4-11-1994,lhb,ob,left-hand bat,right-arm offbreak,40.0,top-order batter
+79157,Hazratullah Zazai,P,Hazratullah Zazai,/db/PICTURES/CMS/289600/289664.1.jpg,23-3-1998,lhb,sla,left-hand bat,slow left-arm orthodox,40.0,opening batter
+79163,Karim Janat,P,Karim Janat,/db/PICTURES/CMS/248200/248267.1.jpg,11-8-1998,rhb,rm,right-hand bat,right-arm medium,40.0,bowling allrounder
+90165,Mujeeb Ur Rahman,P,Mujeeb Ur Rahman,/db/PICTURES/CMS/303200/303282.jpg,28-3-2001,rhb,ob,right-hand bat,right-arm offbreak,40.0,bowler
+79151,Naveen-ul-Haq,P,Naveen-ul-Haq,/db/PICTURES/CMS/303200/303285.jpg,23-9-1999,rhb,rmf,right-hand bat,right-arm medium-fast,40.0,bowler
+90143,Rahmanullah Gurbaz,P,Rahmanullah Gurbaz,/db/PICTURES/CMS/357000/357020.1.png,28-11-2001,rhb,,right-hand bat,,40.0,wicketkeeper batter
+70961,Sharafuddin Ashraf,P,Sharafuddin Ashraf,/db/PICTURES/CMS/303200/303289.jpg,10-1-1995,rhb,sla,right-hand bat,slow left-arm orthodox,40.0,allrounder
+80817,NT Ellis,P,Nathan Ellis,/db/PICTURES/CMS/327000/327014.4.jpg,22-9-1994,rhb,rfm,right-hand bat,right-arm fast-medium,2.0,bowler
+72093,JP Inglis,P,Josh Inglis,/db/PICTURES/CMS/313600/313648.1.jpg,4-3-1995,rhb,,right-hand bat,,2.0,wicketkeeper batter
+50709,KW Richardson,P,Kane Richardson,/db/PICTURES/CMS/289900/289954.jpg,12-2-1991,rhb,rfm,right-hand bat,right-arm fast-medium,2.0,bowler
+80807,DR Sams,P,Daniel Sams,/db/PICTURES/CMS/309000/309061.png,27-10-1992,rhb,lfm,right-hand bat,left-arm fast-medium,2.0,allrounder
+54212,MP Stoinis,P,Marcus Stoinis,/db/PICTURES/CMS/309100/309100.jpg,16-8-1989,rhb,rm,right-hand bat,right-arm medium,2.0,batting allrounder
+68884,MJ Swepson,P,Mitchell Swepson,/db/PICTURES/CMS/312100/312146.png,4-10-1993,rhb,lb,right-hand bat,legbreak,2.0,bowler
+87075,Afif Hossain,P,Afif Hossain,/db/PICTURES/CMS/306000/306068.1.jpg,22-9-1999,lhb,ob,left-hand bat,right-arm offbreak,25.0,allrounder
+66691,Litton Das,WK,Litton Das,/db/PICTURES/CMS/302900/302995.jpg,13-10-1994,rhb,ob,right-hand bat,right-arm offbreak,25.0,wicketkeeper batter
+80875,Mahedi Hasan,P,Mahedi Hasan,/db/PICTURES/CMS/377500/377581.4.jpg,12-12-1994,rhb,ob,right-hand bat,right-arm offbreak,25.0,allrounder
+91277,Mohammad Naim,P,Mohammad Naim,/db/PICTURES/CMS/303200/303235.jpg,22-8-1999,lhb,,left-hand bat,,25.0,opening batter
+56825,Nasum Ahmed,P,Nasum Ahmed,/db/PICTURES/CMS/148300/148317.1.jpg,5-12-1994,lhb,sla,left-hand bat,slow left-arm orthodox,25.0,bowler
+103786,Shamim Hossain,P,Shamim Hossain,/db/PICTURES/CMS/326600/326637.4.jpg,2-9-2000,lhb,ob,left-hand bat,right-arm offbreak,25.0,allrounder
+91235,Shoriful Islam,P,Shoriful Islam,/db/PICTURES/CMS/286900/286908.1.jpg,3-6-2001,lhb,lmf,left-hand bat,left-arm medium-fast,25.0,bowler
+70884,Mohammad Saifuddin,P,Mohammad Saifuddin,/db/PICTURES/CMS/303200/303236.jpg,1-11-1996,lhb,rmf,left-hand bat,right-arm medium-fast,25.0,bowling allrounder
+67312,TK Curran,P,Tom Curran,/db/PICTURES/CMS/304900/304934.jpg,12-3-1995,rhb,rfm,right-hand bat,right-arm fast-medium,1.0,allrounder
+59832,LS Livingstone,P,Liam Livingstone,/db/PICTURES/CMS/356700/356798.1.png,4-8-1993,rhb,"ob,lb",right-hand bat,"right-arm offbreak,legbreak",1.0,batting allrounder
+49309,DJ Malan,P,Dawid Malan,/db/PICTURES/CMS/304600/304668.jpg,3-9-1987,lhb,lb,left-hand bat,legbreak,1.0,top-order batter
+56993,MA Wood,P,Mark Wood,/db/PICTURES/CMS/303900/303977.jpg,11-1-1990,rhb,rf,right-hand bat,right-arm fast,1.0,bowler
+72103,SM Curran,P,Sam Curran,/db/PICTURES/CMS/304300/304324.jpg,3-6-1998,lhb,lmf,left-hand bat,left-arm medium-fast,1.0,allrounder
+62490,TS Mills,P,Tymal Mills,/db/PICTURES/CMS/305000/305042.jpg,12-8-1992,rhb,lf,right-hand bat,left-arm fast,1.0,bowler
+95219,RD Chahar,P,Rahul Chahar,/db/PICTURES/CMS/329300/329346.4.jpg,4-8-1999,rhb,lbg,right-hand bat,legbreak googly,6.0,bowler
+75325,Ishan Kishan,WK,Ishan Kishan,/db/PICTURES/CMS/329300/329345.4.jpg,18-7-1998,lhb,,left-hand bat,,6.0,wicketkeeper batter
+86165,RR Pant,WK,Rishabh Pant,/db/PICTURES/CMS/304200/304221.png,4-10-1997,lhb,,left-hand bat,,6.0,wicketkeeper batter
+60530,KL Rahul,P,KL Rahul,/db/PICTURES/CMS/304200/304207.png,18-4-1992,rhb,,right-hand bat,,6.0,wicketkeeper batter
+63477,SN Thakur,P,Shardul Thakur,/db/PICTURES/CMS/302300/302372.jpg,16-10-1991,rhb,rm,right-hand bat,right-arm medium,6.0,bowler
+98673,CV Varun,P,Varun Chakravarthy,/db/PICTURES/CMS/329300/329347.4.jpg,29-8-1991,rhb,lbg,right-hand bat,legbreak googly,6.0,bowler
+61990,SA Yadav,P,Suryakumar Yadav,/db/PICTURES/CMS/329300/329343.4.jpg,14-9-1990,rhb,"rm,ob",right-hand bat,"right-arm medium,right-arm offbreak",6.0,batter
+66012,MR Adair,P,Mark Adair,/db/PICTURES/CMS/305200/305254.jpg,27-3-1996,rhb,rfm,right-hand bat,right-arm fast-medium,29.0,bowling allrounder
+69644,C Campher,P,Curtis Campher,/db/PICTURES/CMS/306900/306931.1.jpg,20-4-1999,rhb,rmf,right-hand bat,right-arm medium-fast,29.0,allrounder
+97447,GJ Delany,P,Gareth Delany,/db/PICTURES/CMS/306900/306932.1.jpg,28-4-1997,rhb,lbg,right-hand bat,legbreak googly,29.0,batting allrounder
+85975,JB Little,P,Josh Little,/db/PICTURES/CMS/367800/367863.4.jpg,1-11-1999,rhb,lfm,right-hand bat,left-arm fast-medium,29.0,bowler
+99307,NA Rock,P,Neil Rock,/db/PICTURES/CMS/332200/332224.4.jpg,24-9-2000,lhb,,left-hand bat,,29.0,wicketkeeper batter
+91741,Simi Singh,P,Simi Singh,/db/PICTURES/CMS/304000/304003.jpg,4-2-1987,rhb,"ob,lbg",right-hand bat,"right-arm offbreak,legbreak googly",29.0,bowling allrounder
+89741,HT Tector,P,Harry Tector,/db/PICTURES/CMS/305200/305273.jpg,6-12-1999,rhb,ob,right-hand bat,right-arm offbreak,29.0,middle-order batter
+85965,LJ Tucker,P,Lorcan Tucker,/db/PICTURES/CMS/332200/332222.2.jpg,10-9-1996,rhb,,right-hand bat,,29.0,wicketkeeper batter
+85967,B White,P,Ben White,/db/PICTURES/CMS/332200/332221.5.jpg,29-8-1998,rhb,lb,right-hand bat,legbreak,29.0,bowler
+65478,MG Erasmus,C,Gerhard Erasmus,/db/PICTURES/CMS/179600/179639.1.jpg,11-4-1995,rhb,ob,right-hand bat,right-arm offbreak,28.0,allrounder
+67403,JJ Smit,VC,JJ Smit,/db/PICTURES/CMS/179600/179653.1.jpg,10-11-1995,rhb,lmf,right-hand bat,left-arm medium-fast,28.0,bowling allrounder
+61771,SJ Baard,P,Stephan Baard,/db/PICTURES/CMS/173100/173119.1.jpg,29-4-1992,rhb,rmf,right-hand bat,right-arm medium-fast,28.0,batter
+94753,K Birkenstock,P,Karl Birkenstock,/db/PICTURES/CMS/347800/347846.4.jpg,27-3-1996,lhb,rfm,left-hand bat,right-arm fast-medium,28.0,middle-order batter
+68176,MD du Preez,WK,Michau du Preez,/db/PICTURES/CMS/281700/281714.1.jpg,3-1-1996,rhb,lb,right-hand bat,legbreak,28.0,wicketkeeper batter
+63683,JN Frylinck,P,Jan Frylinck,/db/PICTURES/CMS/347800/347843.4.jpg,6-4-1994,lhb,lfm,left-hand bat,left-arm fast-medium,28.0,allrounder
+70085,ZE Green,WK,Zane Green,/db/PICTURES/CMS/347800/347850.4.jpg,11-10-1996,lhb,,left-hand bat,,28.0,wicketkeeper batter
+95708,JN Loftie-Eaton,P,Jan Nicol Loftie-Eaton,/db/PICTURES/CMS/347800/347847.4.jpg,15-3-2001,lhb,"rm,lb",left-hand bat,"right-arm medium,legbreak",28.0,batting allrounder
+54563,BM Scholtz,P,Bernard Scholtz,/db/PICTURES/CMS/173100/173105.1.jpg,3-10-1990,rhb,sla,right-hand bat,slow left-arm orthodox,28.0,bowler
+95279,B Shikongo,P,Ben Shikongo,/db/PICTURES/CMS/329700/329761.4.jpg,8-5-2000,rhb,rmf,right-hand bat,right-arm medium-fast,28.0,bowler
+74479,R Trumpelmann,P,Ruben Trumpelmann,/db/PICTURES/CMS/347800/347845.4.jpg,1-2-1998,rhb,lf,right-hand bat,left-arm fast,28.0,bowler
+80905,M van Lingen,P,Michael van Lingen,/db/PICTURES/CMS/347800/347844.4.jpg,24-10-1997,lhb,"lm,sla",left-hand bat,"left-arm medium,slow left-arm orthodox",28.0,bowling allrounder
+53463,CG Williams,P,Craig Williams,/db/PICTURES/CMS/173100/173103.1.jpg,25-2-1984,rhb,rm,right-hand bat,right-arm medium,28.0,top-order batter
+53164,HN Ya France,P,Pikky Ya France,/db/PICTURES/CMS/171700/171741.1.jpg,23-4-1990,rhb,ob,right-hand bat,right-arm offbreak,28.0,middle-order batter
+58464,CN Ackermann,VC,Colin Ackermann,/db/PICTURES/CMS/313100/313123.1.jpg,4-4-1991,rhb,ob,right-hand bat,right-arm offbreak,15.0,batting allrounder
+93297,PRP Boissevain,P,Philippe Boissevain,/db/PICTURES/CMS/329300/329355.4.jpg,18-10-2000,rhb,lbg,right-hand bat,legbreak googly,15.0,bowler
+93293,BFW de Leede,P,Bas de Leede,/db/PICTURES/CMS/322600/322637.png,15-11-1999,rhb,rfm,right-hand bat,right-arm fast-medium,15.0,batting allrounder
+101548,SA Edwards,P,Scott Edwards,/db/PICTURES/CMS/279600/279687.1.jpg,23-8-1996,rhb,,right-hand bat,,15.0,wicketkeeper batter
+69468,BD Glover,P,Brandon Glover,/db/PICTURES/CMS/379300/379316.1.png,3-4-1997,rhb,rf,right-hand bat,right-arm fast,15.0,bowler
+97878,FJ Klaassen,P,Fred Klaassen,/db/PICTURES/CMS/279800/279855.1.jpg,13-11-1992,rhb,lfm,right-hand bat,left-arm fast-medium,15.0,bowler
+48641,TD Astle,P,Todd Astle,/db/PICTURES/CMS/303600/303671.png,24-9-1986,rhb,lb,right-hand bat,legbreak,5.0,bowler
+58403,DP Conway,P,Devon Conway,/db/PICTURES/CMS/318500/318588.1.jpg,8-7-1991,lhb,rm,left-hand bat,right-arm medium,5.0,wicketkeeper batter
+70691,KA Jamieson,P,Kyle Jamieson,/db/PICTURES/CMS/303500/303584.jpg,30-12-1994,rhb,rfm,right-hand bat,right-arm fast-medium,5.0,bowler
+58772,DJ Mitchell,P,Daryl Mitchell,/db/PICTURES/CMS/303500/303598.jpg,20-5-1991,rhb,rm,right-hand bat,right-arm medium,5.0,batting allrounder
+80639,GD Phillips,P,Glenn Phillips,/db/PICTURES/CMS/303500/303599.jpg,6-12-1996,rhb,ob,right-hand bat,right-arm offbreak,5.0,allrounder
+70695,TL Seifert,WK,Tim Seifert,/db/PICTURES/CMS/303800/303816.png,14-12-1994,rhb,,right-hand bat,,5.0,wicketkeeper batter
+64402,LH Ferguson,P,Lockie Ferguson,/db/PICTURES/CMS/303800/303800.png,13-6-1991,rhb,rf,right-hand bat,right-arm fast,5.0,bowler
+87469,Aqib Ilyas,VC,Aqib Ilyas,/db/PICTURES/CMS/257900/257905.1.jpg,5-9-1992,rhb,"ob,lbg",right-hand bat,"right-arm offbreak,legbreak googly",37.0,top-order batter
+88971,Ayaan Khan,P,Ayaan Khan,/db/PICTURES/CMS/362400/362498.4.jpg,30-8-1992,lhb,sla,left-hand bat,slow left-arm orthodox,37.0,allrounder
+97318,N Dhamba,P,Nestor Dhamba,/db/PICTURES/CMS/263300/263399.1.jpg,19-2-1990,rhb,ob,right-hand bat,right-arm offbreak,37.0,bowler
+61627,Fayyaz Butt,P,Fayyaz Butt,/db/PICTURES/CMS/286300/286356.1.jpg,17-8-1993,rhb,rmf,right-hand bat,right-arm medium-fast,37.0,bowler
+96344,Kaleemullah,P,Kaleemullah,/db/PICTURES/CMS/260600/260630.1.jpg,24-12-1990,rhb,rm,right-hand bat,right-arm medium,37.0,bowler
+45702,Mohammad Nadeem,P,Mohammad Nadeem,/db/PICTURES/CMS/254600/254654.1.jpg,4-9-1982,rhb,rmf,right-hand bat,right-arm medium-fast,37.0,allrounder
+96346,Naseem Khushi,P,Naseem Khushi,/db/PICTURES/CMS/286300/286346.1.jpg,11-8-1982,rhb,,right-hand bat,,37.0,wicketkeeper
+110059,KH Prajapati,P,Kashyap Prajapati,/db/PICTURES/CMS/362500/362500.4.jpg,11-10-1995,rhb,ob,right-hand bat,right-arm offbreak,37.0,top-order batter
+104599,Sandeep Goud,P,Sandeep Goud,/db/PICTURES/CMS/286300/286347.1.jpg,8-11-1991,rhb,rm,right-hand bat,right-arm medium,37.0,allrounder
+103386,Suraj Kumar,WK,Suraj Kumar,,29-11-1988,rhb,,right-hand bat,,37.0,wicketkeeper batter
+96345,Khurram Nawaz,P,Khurram Nawaz,/db/PICTURES/CMS/286300/286355.1.jpg,30-1-1986,rhb,,right-hand bat,,37.0,middle-order batter
+84937,Shadab Khan,VC,Shadab Khan,/db/PICTURES/CMS/302800/302825.jpg,4-10-1998,rhb,lb,right-hand bat,legbreak,7.0,allrounder
+64412,Asif Ali,P,Asif Ali,/db/PICTURES/CMS/327000/327013.4.jpg,1-10-1991,rhb,ob,right-hand bat,right-arm offbreak,7.0,middle-order batter
+65101,Fakhar Zaman,P,Fakhar Zaman,/db/PICTURES/CMS/302700/302771.jpg,10-4-1990,lhb,sla,left-hand bat,slow left-arm orthodox,7.0,opening batter
+104282,Haider Ali,P,Haider Ali,/db/PICTURES/CMS/307900/307944.1.jpg,2-10-2000,rhb,,right-hand bat,,7.0,middle-order batter
+103878,Haris Rauf,P,Haris Rauf,/db/PICTURES/CMS/312100/312183.png,7-11-1993,rhb,rf,right-hand bat,right-arm fast,7.0,bowler
+72719,Hasan Ali,P,Hasan Ali,/db/PICTURES/CMS/302700/302774.jpg,2-7-1994,rhb,rmf,right-hand bat,right-arm medium-fast,7.0,bowler
+54018,Mohammad Rizwan,WK,Mohammad Rizwan,/db/PICTURES/CMS/312100/312178.jpg,1-6-1992,rhb,rm,right-hand bat,right-arm medium,7.0,wicketkeeper batter
+105513,Mohammad Wasim,P,Mohammad Wasim,/db/PICTURES/CMS/327000/327012.4.jpg,25-8-2001,rhb,rfm,right-hand bat,right-arm fast-medium,7.0,bowling allrounder
+95855,Shaheen Shah Afridi,P,Shaheen Shah Afridi,/db/PICTURES/CMS/312100/312180.jpg,6-4-2000,lhb,lf,left-hand bat,left-arm fast,7.0,bowler
+47469,A Vala,C,Assad Vala,/db/PICTURES/CMS/172800/172837.1.jpg,5-8-1987,lhb,ob,left-hand bat,right-arm offbreak,20.0,batter
+55134,CJA Amini,P,Charles Amini,/db/PICTURES/CMS/172800/172831.1.jpg,14-4-1992,lhb,lb,left-hand bat,legbreak,20.0,allrounder
+100464,SK Atai,P,Simon Atai,/db/PICTURES/CMS/321100/321160.png,19-9-1999,lhb,,left-hand bat,,20.0,wicketkeeper batter
+60468,S Bau,P,Sese Bau,/db/PICTURES/CMS/148200/148237.jpg,23-6-1992,lhb,ob,left-hand bat,right-arm offbreak,20.0,middle-order batter
+71459,K Doriga,P,Kiplin Doriga,/db/PICTURES/CMS/179800/179883.1.jpg,18-10-1995,rhb,,right-hand bat,,20.0,wicketkeeper batter
+71461,H Hiri,P,Hiri Hiri,/db/PICTURES/CMS/179800/179889.1.jpg,1-5-1995,rhb,ob,right-hand bat,right-arm offbreak,20.0,middle-order batter
+52600,J Kila,P,Jason Kila,/db/PICTURES/CMS/112500/112589.1.jpg,15-1-1990,lhb,sla,left-hand bat,slow left-arm orthodox,20.0,bowling allrounder
+65889,KV Morea,P,Kabua Morea,/db/PICTURES/CMS/179800/179895.1.jpg,30-9-1993,rhb,lm,right-hand bat,left-arm medium,20.0,bowler
+71463,N Pokana,P,Nosaina Pokana,/db/PICTURES/CMS/179800/179897.1.jpg,12-4-1996,rhb,lf,right-hand bat,left-arm fast,20.0,bowler
+101285,D Ravu,P,Damien Ravu,/db/PICTURES/CMS/321100/321140.png,3-5-1994,rhb,rmf,right-hand bat,right-arm medium-fast,20.0,bowler
+61866,L Siaka,P,Lega Siaka,/db/PICTURES/CMS/148200/148245.jpg,21-12-1992,rhb,"rfm,lb",right-hand bat,"right-arm fast-medium,legbreak",20.0,opening batter
+68066,CA Soper,P,Chad Soper,/db/PICTURES/CMS/148200/148220.jpg,19-11-1991,rhb,rmf,right-hand bat,right-arm medium-fast,20.0,bowler
+71473,G Toka,P,Gaudi Toka,/db/PICTURES/CMS/179900/179901.1.jpg,17-6-1996,lhb,rmf,left-hand bat,right-arm medium-fast,20.0,allrounder
+52584,TP Ura,P,Tony Ura,/db/PICTURES/CMS/172800/172833.1.jpg,15-10-1989,rhb,,right-hand bat,,20.0,opening batter
+65887,N Vanua,P,Norman Vanua,/db/PICTURES/CMS/172800/172839.1.jpg,2-12-1993,rhb,rm,right-hand bat,right-arm medium,20.0,bowler
+77237,DE Budge,P,Dylan Budge,/db/PICTURES/CMS/322400/322442.png,11-9-1995,rhb,rm,right-hand bat,right-arm medium,30.0,allrounder
+81813,CN Greaves,P,Chris Greaves,/db/PICTURES/CMS/286300/286357.1.jpg,12-10-1990,rhb,lb,right-hand bat,legbreak,30.0,bowler
+76927,Hamza Tahir,P,Hamza Tahir,/db/PICTURES/CMS/322400/322437.png,9-11-1995,rhb,sla,right-hand bat,slow left-arm orthodox,30.0,bowler
+97047,MA Jones,P,Michael Jones,/db/PICTURES/CMS/322400/322444.png,5-1-1998,rhb,ob,right-hand bat,right-arm offbreak,30.0,top-order batter
+60202,CD Wallace,WK,Craig Wallace,/db/PICTURES/CMS/172800/172863.1.jpg,27-6-1990,rhb,,right-hand bat,,30.0,wicketkeeper batter
+79841,BTJ Wheal,P,Brad Wheal,/db/PICTURES/CMS/322400/322436.png,28-8-1996,rhb,rfm,right-hand bat,right-arm fast-medium,30.0,bowler
+60204,OJ Hairs,P,Ollie Hairs,/db/PICTURES/CMS/118900/118935.1.jpg,14-4-1991,lhb,ob,left-hand bat,right-arm offbreak,30.0,opening batter
+58190,T Bavuma,C,Temba Bavuma,/db/PICTURES/CMS/317900/317941.jpg,17-5-1990,rhb,rm,right-hand bat,right-arm medium,3.0,middle-order batter
+67364,BC Fortuin,P,Bjorn Fortuin,/db/PICTURES/CMS/317900/317966.jpg,21-10-1994,rhb,sla,right-hand bat,slow left-arm orthodox,3.0,bowler
+50416,RR Hendricks,P,Reeza Hendricks,/db/PICTURES/CMS/317900/317945.jpg,14-8-1989,rhb,ob,right-hand bat,right-arm offbreak,3.0,opening batter
+61634,H Klaasen,P,Heinrich Klaasen,/db/PICTURES/CMS/317900/317958.jpg,30-7-1991,rhb,ob,right-hand bat,right-arm offbreak,3.0,wicketkeeper batter
+50309,KA Maharaj,P,Keshav Maharaj,/db/PICTURES/CMS/317900/317953.jpg,7-2-1990,rhb,sla,right-hand bat,slow left-arm orthodox,3.0,bowler
+70277,AK Markram,P,Aiden Markram,/db/PICTURES/CMS/317900/317970.jpg,4-10-1994,rhb,ob,right-hand bat,right-arm offbreak,3.0,opening batter
+74351,PWA Mulder,P,Wiaan Mulder,/db/PICTURES/CMS/317900/317942.jpg,19-2-1998,rhb,rm,right-hand bat,right-arm medium,3.0,allrounder
+66941,L Ngidi,P,Lungi Ngidi,/db/PICTURES/CMS/317900/317951.jpg,29-3-1996,rhb,rfm,right-hand bat,right-arm fast-medium,3.0,bowler
+63651,A Nortje,P,Anrich Nortje,/db/PICTURES/CMS/317900/317968.jpg,16-11-1993,rhb,rf,right-hand bat,right-arm fast,3.0,bowler
+54430,D Pretorius,P,Dwaine Pretorius,/db/PICTURES/CMS/317900/317962.jpg,29-3-1989,rhb,rmf,right-hand bat,right-arm medium-fast,3.0,bowling allrounder
+58408,T Shamsi,P,Tabraiz Shamsi,/db/PICTURES/CMS/317900/317943.jpg,18-2-1990,rhb,lws,right-hand bat,left-arm wrist-spin,3.0,bowler
+55398,HE van der Dussen,P,Rassie van der Dussen,/db/PICTURES/CMS/317900/317946.jpg,7-2-1989,rhb,lb,right-hand bat,legbreak,3.0,top-order batter
+78229,KIC Asalanka,P,Charith Asalanka,/db/PICTURES/CMS/348100/348128.4.jpg,29-6-1997,lhb,ob,left-hand bat,right-arm offbreak,8.0,batting allrounder
+62760,DM de Silva,P,Dhananjaya de Silva,/db/PICTURES/CMS/303800/303832.png,6-9-1991,rhb,ob,right-hand bat,right-arm offbreak,8.0,allrounder
+70894,B Fernando,P,Binura Fernando,/db/PICTURES/CMS/317600/317696.jpg,12-7-1995,rhb,lmf,right-hand bat,left-arm medium-fast,8.0,bowler
+78231,WIA Fernando,P,Avishka Fernando,/db/PICTURES/CMS/289600/289652.1.jpg,5-4-1998,rhb,rmf,right-hand bat,right-arm medium-fast,8.0,opening batter
+70580,C Karunaratne,P,Chamika Karunaratne,/db/PICTURES/CMS/303800/303830.png,29-5-1996,rhb,rmf,right-hand bat,right-arm medium-fast,8.0,bowling allrounder
+78235,CBRLS Kumara,P,Lahiru Kumara,/db/PICTURES/CMS/303800/303837.png,13-2-1997,lhb,rf,left-hand bat,right-arm fast,8.0,bowler
+93033,P Nissanka,P,Pathum Nissanka,/db/PICTURES/CMS/318400/318435.jpg,18-5-1998,rhb,,right-hand bat,,8.0,top-order batter
+56511,PBB Rajapaksa,WK,Bhanuka Rajapaksa,/db/PICTURES/CMS/338100/338183.4.jpg,24-10-1991,lhb,rm,left-hand bat,right-arm medium,8.0,top-order batter
+101991,M Theekshana,P,Maheesh Theekshana,/db/PICTURES/CMS/336200/336296.4.jpg,1-8-2000,rhb,ob,right-hand bat,right-arm offbreak,8.0,bowler
+70405,N Pooran,VCK,Nicholas Pooran,/db/PICTURES/CMS/302200/302286.jpg,2-10-1995,lhb,ob,left-hand bat,right-arm offbreak,4.0,wicketkeeper batter
+59349,RL Chase,P,Roston Chase,/db/PICTURES/CMS/305900/305909.1.jpg,22-3-1992,rhb,ob,right-hand bat,right-arm offbreak,4.0,allrounder
+72393,SO Hetmyer,P,Shimron Hetmyer,/db/PICTURES/CMS/356800/356802.1.png,26-12-1996,lhb,,left-hand bat,,4.0,top-order batter
+66259,AJ Hosein,P,Akeal Hosein,/db/PICTURES/CMS/326100/326139.4.jpg,25-4-1993,lhb,sla,left-hand bat,slow left-arm orthodox,4.0,bowler
+84225,O Thomas,P,Oshane Thomas,/db/PICTURES/CMS/307600/307607.jpg,18-2-1997,lhb,rf,left-hand bat,right-arm fast,4.0,bowler
+61941,HR Walsh,P,Hayden Walsh,/db/PICTURES/CMS/286800/286881.1.jpg,23-4-1992,lhb,lbg,left-hand bat,legbreak googly,4.0,bowler
+72385,FA Allen,P,Fabian Allen,/db/PICTURES/CMS/300700/300765.1.jpg,7-5-1995,rhb,sla,right-hand bat,slow left-arm orthodox,4.0,bowling allrounder
+83915,OC McCoy,P,Obed McCoy,/db/PICTURES/CMS/322000/322031.png,4-1-1997,lhb,lfm,left-hand bat,left-arm fast-medium,4.0,bowler
+80247,Azmatullah Omarzai,P,Azmatullah Omarzai,/db/PICTURES/CMS/347800/347832.4.jpg,24-3-2000,rhb,rmf,right-hand bat,right-arm medium-fast,40.0,allrounder
+80259,Darwish Rasooli,P,Darwish Rasooli,/db/PICTURES/CMS/347800/347833.4.jpg,12-12-1999,rhb,ob,right-hand bat,right-arm offbreak,40.0,top-order batter
+90231,Fazalhaq Farooqi,P,Fazalhaq Farooqi,/db/PICTURES/CMS/306700/306755.3.jpg,22-9-2000,rhb,lfm,right-hand bat,left-arm fast-medium,40.0,bowler
+84865,Ibrahim Zadran,P,Ibrahim Zadran,/db/PICTURES/CMS/303200/303273.jpg,12-12-2001,rhb,rmf,right-hand bat,right-arm medium-fast,40.0,opening batter
+104685,Mohammad Saleem,P,Mohammad Saleem,/db/PICTURES/CMS/347800/347834.4.jpg,9-9-2002,rhb,rf,right-hand bat,right-arm fast,40.0,bowler
+84117,Qais Ahmad,P,Qais Ahmad,/db/PICTURES/CMS/296500/296532.1.jpg,15-8-2000,rhb,lb,right-hand bat,legbreak,40.0,bowler
+83439,TH David,P,Tim David,/db/PICTURES/CMS/313600/313639.1.jpg,16-3-1996,rhb,ob,right-hand bat,right-arm offbreak,2.0,middle-order batter
+96335,C Green,P,Cameron Green,/db/PICTURES/CMS/315600/315603.jpg,3-6-1999,rhb,rfm,right-hand bat,right-arm fast-medium,2.0,batting allrounder
+86321,Ebadot Hossain,P,Ebadot Hossain,/db/PICTURES/CMS/341000/341045.4.jpg,7-1-1994,rhb,rfm,right-hand bat,right-arm fast-medium,25.0,bowler
+85693,Hasan Mahmud,P,Hasan Mahmud,/db/PICTURES/CMS/303200/303249.jpg,12-10-1999,rhb,rfm,right-hand bat,right-arm fast-medium,25.0,bowler
+70877,Mehidy Hasan Miraz,P,Mehidy Hasan Miraz,/db/PICTURES/CMS/303000/303000.jpg,25-10-1997,rhb,ob,right-hand bat,right-arm offbreak,25.0,allrounder
+67276,Mosaddek Hossain,P,Mosaddek Hossain,/db/PICTURES/CMS/303100/303147.jpg,10-12-1995,rhb,ob,right-hand bat,right-arm offbreak,25.0,middle-order batter
+70872,Najmul Hossain Shanto,P,Najmul Hossain Shanto,/db/PICTURES/CMS/303200/303241.jpg,25-8-1998,lhb,ob,left-hand bat,right-arm offbreak,25.0,top-order batter
+70873,Yasir Ali,P,Yasir Ali,/db/PICTURES/CMS/179500/179555.1.jpg,3-6-1996,rhb,ob,right-hand bat,right-arm offbreak,25.0,middle-order batter
+84027,HC Brook,P,Harry Brook,/db/PICTURES/CMS/271800/271830.jpg,22-2-1999,rhb,rm,right-hand bat,right-arm medium,1.0,batter
+72363,PD Salt,P,Phil Salt,/db/PICTURES/CMS/312100/312181.png,28-8-1996,rhb,ob,right-hand bat,right-arm offbreak,1.0,wicketkeeper batter
+101430,Arshdeep Singh,P,Arshdeep Singh,/db/PICTURES/CMS/356700/356795.1.png,5-2-1999,lhb,lmf,left-hand bat,left-arm medium-fast,6.0,bowler
+61325,YS Chahal,P,Yuzvendra Chahal,/db/PICTURES/CMS/312100/312155.png,23-7-1990,rhb,lbg,right-hand bat,legbreak googly,6.0,bowler
+64479,DJ Hooda,P,Deepak Hooda,/db/PICTURES/CMS/343200/343251.4.jpg,19-4-1995,rhb,ob,right-hand bat,right-arm offbreak,6.0,allrounder
+59260,HV Patel,P,Harshal Patel,/db/PICTURES/CMS/381300/381373.4.png,23-11-1990,rhb,rm,right-hand bat,right-arm medium,6.0,bowler
+67455,AR Patel,P,Axar Patel,/db/PICTURES/CMS/329300/329344.4.jpg,20-1-1994,lhb,sla,left-hand bat,slow left-arm orthodox,6.0,bowling allrounder
+89739,ST Doheny,P,Stephen Doheny,/db/PICTURES/CMS/341900/341910.4.jpg,20-8-1998,rhb,,right-hand bat,,29.0,opening batter
+97424,F Hand,P,Fionn Hand,/db/PICTURES/CMS/348100/348137.4.jpg,1-7-1998,rhb,rm,right-hand bat,right-arm medium,29.0,bowling allrounder
+58407,GI Hume,P,Graham Hume,/db/PICTURES/CMS/112600/112615.1.jpg,23-11-1990,lhb,rfm,left-hand bat,right-arm fast-medium,29.0,bowler
+56835,BJ McCarthy,P,Barry McCarthy,/db/PICTURES/CMS/305200/305253.jpg,13-9-1992,rhb,rfm,right-hand bat,right-arm fast-medium,29.0,bowler
+108082,C Olphert,P,Conor Olphert,/db/PICTURES/CMS/341900/341911.4.jpg,28-12-1995,rhb,rm,right-hand bat,right-arm medium,29.0,bowler
+104954,D la Cock,P,Divan la Cock,/db/PICTURES/CMS/347800/347840.4.jpg,23-2-2003,rhb,lb,right-hand bat,legbreak,28.0,opening batter
+80829,L Louwrens,P,Lo-handre Louwrens,/db/PICTURES/CMS/347800/347848.4.jpg,24-4-1999,rhb,,right-hand bat,,28.0,wicketkeeper batter
+65868,T Lungameni,P,Tangeni Lungameni,/db/PICTURES/CMS/347800/347841.4.jpg,17-4-1992,rhb,lm,right-hand bat,left-arm medium,28.0,bowler
+101586,AT Nidamanuru,P,Teja Nidamanuru,/db/PICTURES/CMS/366300/366322.4.jpg,22-8-1994,rhb,ob,right-hand bat,right-arm offbreak,15.0,allrounder
+105883,TJG Pringle,P,Tim Pringle,,29-8-2002,rhb,sla,right-hand bat,slow left-arm orthodox,15.0,allrounder
+110224,Shariz Ahmad,P,Shariz Ahmad,/db/PICTURES/CMS/362800/362803.4.jpg,21-4-2003,lhb,lbg,left-hand bat,legbreak googly,15.0,bowler
+102987,Vikramjit Singh,P,Vikramjit Singh,/db/PICTURES/CMS/362800/362805.1.png,9-1-2003,lhb,rm,left-hand bat,right-arm medium,15.0,opening batter
+89097,FH Allen,P,Finn Allen,/db/PICTURES/CMS/271800/271806.jpg,22-4-1999,rhb,,right-hand bat,,5.0,top-order batter
+54369,MG Bracewell,P,Michael Bracewell,/db/PICTURES/CMS/356800/356810.1.png,14-2-1991,lhb,ob,left-hand bat,right-arm offbreak,5.0,batting allrounder
+75215,Khushdil Shah,P,Khushdil Shah,/db/PICTURES/CMS/302800/302876.jpg,7-2-1995,lhb,sla,left-hand bat,slow left-arm orthodox,7.0,middle-order batter
+106787,Mohammad Haris,P,Mohammad Haris,,30-3-2001,rhb,ob,right-hand bat,right-arm offbreak,7.0,wicketkeeper batter
+103402,Mohammad Hasnain,P,Mohammad Hasnain,/db/PICTURES/CMS/302800/302877.jpg,5-4-2000,rhb,rf,right-hand bat,right-arm fast,7.0,bowler
+103399,Naseem Shah,P,Naseem Shah,/db/PICTURES/CMS/302800/302821.jpg,15-2-2003,rhb,rf,right-hand bat,right-arm fast,7.0,bowler
+49236,Shan Masood,P,Shan Masood,/db/PICTURES/CMS/302800/302826.jpg,14-10-1989,lhb,rmf,left-hand bat,right-arm medium-fast,7.0,opening batter
+88557,B McMullen,P,Brandon McMullen,,18-10-1999,rhb,rm,right-hand bat,right-arm medium,30.0,batting allrounder
+72419,CB Sole,P,Chris Sole,/db/PICTURES/CMS/322400/322438.png,27-2-1994,rhb,rfm,right-hand bat,right-arm fast-medium,30.0,bowler
+69697,T Stubbs,P,Tristan Stubbs,/db/PICTURES/CMS/345900/345940.4.jpg,14-8-2000,rhb,ob,right-hand bat,right-arm offbreak,3.0,batter
+89075,KNA Bandara,P,Ashen Bandara,/db/PICTURES/CMS/323000/323079.png,23-11-1998,rhb,lb,right-hand bat,legbreak,8.0,middle-order batter
+78275,AM Fernando,P,Asitha Fernando,/db/PICTURES/CMS/315800/315892.jpg,31-7-1997,rhb,rmf,right-hand bat,right-arm medium-fast,8.0,bowler
+70888,BKG Mendis,P,Kusal Mendis,/db/PICTURES/CMS/303800/303835.png,2-2-1995,rhb,lb,right-hand bat,legbreak,8.0,wicketkeeper batter
+64698,CAK Rajitha,P,Kasun Rajitha,/db/PICTURES/CMS/303800/303833.png,1-6-1993,rhb,rmf,right-hand bat,right-arm medium-fast,8.0,bowler
+56646,MD Gunathilaka,P,Danushka Gunathilaka,/db/PICTURES/CMS/303800/303864.jpg,17-3-1991,lhb,ob,left-hand bat,right-arm offbreak,8.0,allrounder
+79067,D Madushanka,P,Dilshan Madushanka,/db/PICTURES/CMS/348100/348129.4.jpg,18-9-2000,rhb,lfm,right-hand bat,left-arm fast-medium,8.0,bowler
+63447,CP Rizwan,C,CP Rizwan,/db/PICTURES/CMS/287100/287148.1.jpg,19-4-1988,rhb,lbg,right-hand bat,legbreak googly,27.0,middle-order batter
+104989,V Aravind,VC,Vriitya Aravind,/db/PICTURES/CMS/348600/348615.4.jpg,11-6-2002,rhb,,right-hand bat,,27.0,wicketkeeper batter
+108302,Aayan Afzal Khan,P,Aayan Afzal Khan,/db/PICTURES/CMS/348600/348618.4.jpg,15-11-2005,rhb,sla,right-hand bat,slow left-arm orthodox,27.0,bowling allrounder
+95021,Aryan Lakra,P,Aryan Lakra,/db/PICTURES/CMS/348600/348620.4.jpg,13-12-2001,lhb,sla,left-hand bat,slow left-arm orthodox,27.0,bowler
+106969,Basil Hameed,P,Basil Hameed,/db/PICTURES/CMS/348600/348621.4.jpg,15-4-1992,rhb,ob,right-hand bat,right-arm offbreak,27.0,middle-order batter
+66416,Chirag Suri,P,Chirag Suri,/db/PICTURES/CMS/179800/179849.1.jpg,18-2-1995,rhb,"ob,lbg",right-hand bat,"right-arm offbreak,legbreak googly",27.0,opening batter
+101438,Fahad Nawaz,P,Fahad Nawaz,/db/PICTURES/CMS/348600/348622.4.jpg,15-1-2000,rhb,sla,right-hand bat,slow left-arm orthodox,27.0,allrounder
+106639,Junaid Siddique,P,Junaid Siddique,/db/PICTURES/CMS/347800/347887.4.jpg,6-12-1992,rhb,rmf,right-hand bat,right-arm medium-fast,27.0,bowler
+49011,Kashif Daud,P,Kashif Daud,/db/PICTURES/CMS/348600/348623.4.jpg,10-2-1986,rhb,rmf,right-hand bat,right-arm medium-fast,27.0,bowling allrounder
+95019,KP Meiyappan,P,Karthik Meiyappan,/db/PICTURES/CMS/348600/348624.4.jpg,8-10-2000,rhb,lb,right-hand bat,legbreak,27.0,bowler
+108314,Muhammad Waseem,P,Muhammad Waseem,/db/PICTURES/CMS/348600/348612.4.jpg,12-2-1994,rhb,rm,right-hand bat,right-arm medium,27.0,opening batter
+112929,Sabir Ali,P,Sabir Ali,/db/PICTURES/CMS/348600/348625.4.jpg,11-7-1991,rhb,lfm,right-hand bat,left-arm fast-medium,27.0,bowler
+103780,A Sharafu,P,Alishan Sharafu,/db/PICTURES/CMS/348600/348627.4.jpg,10-1-2003,rhb,rm,right-hand bat,right-arm medium,27.0,opening batter
+58886,Zahoor Khan,P,Zahoor Khan,/db/PICTURES/CMS/287100/287145.1.jpg,25-5-1989,rhb,rmf,right-hand bat,right-arm medium-fast,27.0,bowler
+106148,Zawar Farid,P,Zawar Farid,/db/PICTURES/CMS/348600/348630.4.jpg,25-7-1992,rhb,rm,right-hand bat,right-arm medium,,bowler
+80425,R Powell,VC,Rovman Powell,/db/PICTURES/CMS/246200/246267.1.jpg,23-7-1993,rhb,rmf,right-hand bat,right-arm medium-fast,4.0,middle-order batter
+49036,SSJ Brooks,P,Shamarh Brooks,/db/PICTURES/CMS/305900/305918.1.jpg,1-10-1988,rhb,lb,right-hand bat,legbreak,4.0,top-order batter
+61414,Y Cariah,P,Yannic Cariah,/db/PICTURES/CMS/348100/348145.4.jpg,22-6-1992,lhb,lb,left-hand bat,legbreak,4.0,bowler
+72397,AS Joseph,P,Alzarri Joseph,/db/PICTURES/CMS/321900/321943.png,20-11-1996,rhb,rf,right-hand bat,right-arm fast,4.0,bowler
+72399,BA King,P,Brandon King,/db/PICTURES/CMS/232700/232775.jpg,16-12-1994,rhb,,right-hand bat,,4.0,top-order batter
+56832,KR Mayers,P,Kyle Mayers,/db/PICTURES/CMS/316000/316081.png,8-9-1992,lhb,rm,left-hand bat,right-arm medium,4.0,batting allrounder
+62139,RA Reifer,P,Raymon Reifer,/db/PICTURES/CMS/305900/305914.1.jpg,11-5-1991,lhb,lmf,left-hand bat,left-arm medium-fast,4.0,allrounder
+80451,OF Smith,P,Odean Smith,/db/PICTURES/CMS/348100/348147.4.jpg,1-11-1996,rhb,rfm,right-hand bat,right-arm fast-medium,4.0,bowling allrounder
+64447,RP Burl,P,Ryan Burl,/db/PICTURES/CMS/179700/179753.1.jpg,15-4-1994,lhb,lb,left-hand bat,legbreak,9.0,allrounder
+51554,RW Chakabva,WK,Regis Chakabva,/db/PICTURES/CMS/128500/128565.1.jpg,20-9-1987,rhb,ob,right-hand bat,right-arm offbreak,9.0,wicketkeeper batter
+73599,B Evans,P,Brad Evans,/db/PICTURES/CMS/345200/345226.4.jpg,24-3-1997,rhb,rf,right-hand bat,right-arm fast,9.0,allrounder
+93909,C Madande,P,Clive Madande,/db/PICTURES/CMS/345200/345225.5.jpg,12-4-2000,rhb,,right-hand bat,,9.0,wicketkeeper batter
+87157,W Madhevere,P,Wessly Madhevere,/db/PICTURES/CMS/324700/324710.4.jpg,4-9-2000,rhb,ob,right-hand bat,right-arm offbreak,9.0,allrounder
+101292,T Munyonga,P,Tony Munyonga,/db/PICTURES/CMS/345200/345224.4.jpg,31-1-1999,rhb,ob,right-hand bat,right-arm offbreak,9.0,allrounder
+80845,B Muzarabani,P,Blessing Muzarabani,/db/PICTURES/CMS/321400/321471.png,2-10-1996,rhb,rfm,right-hand bat,right-arm fast-medium,9.0,bowler
+79665,R Ngarava,P,Richard Ngarava,/db/PICTURES/CMS/345200/345220.4.jpg,29-12-1997,lhb,lfm,left-hand bat,left-arm fast-medium,9.0,bowler
+88829,M Shumba,P,Milton Shumba,/db/PICTURES/CMS/354000/354052.1.png,19-10-2000,lhb,sla,left-hand bat,slow left-arm orthodox,9.0,top-order batter
+96228,Mohammad Ishaq,WK,Mohammad Ishaq,/db/PICTURES/CMS/341000/341064.4.jpg,1-2-2005,rhb,,right-hand bat,,40.0,wicketkeeper batter
+106332,Nangeyalia Kharote,P,Nangeyalia Kharote,/db/PICTURES/CMS/341000/341065.4.jpg,25-4-2004,lhb,sla,left-hand bat,slow left-arm orthodox,40.0,allrounder
+105215,Noor Ahmad,P,Noor Ahmad,/db/PICTURES/CMS/372500/372590.1.png,3-1-2005,rhb,lws,right-hand bat,left-arm wrist-spin,40.0,bowler
+66190,TM Head,P,Travis Head,/db/PICTURES/CMS/263500/263525.1.jpg,29-12-1993,lhb,ob,left-hand bat,right-arm offbreak,2.0,top-order batter
+80669,Jaker Ali,P,Jaker Ali,/db/PICTURES/CMS/349300/349343.png,22-2-1998,rhb,,right-hand bat,,25.0,batter
+102030,Rishad Hossain,P,Rishad Hossain,/db/PICTURES/CMS/377500/377577.4.jpg,15-7-2002,rhb,lbg,right-hand bat,legbreak googly,25.0,bowler
+86627,Tanvir Islam,P,Tanvir Islam,/db/PICTURES/CMS/269600/269672.1.jpg,25-10-1996,lhb,sla,left-hand bat,slow left-arm orthodox,25.0,bowler
+91219,Tanzid Hasan,P,Tanzid Hasan,/db/PICTURES/CMS/368000/368062.1.png,1-12-2000,lhb,,left-hand bat,,25.0,opening batter
+102028,Tanzim Hasan Sakib,P,Tanzim Hasan Sakib,/db/PICTURES/CMS/377500/377584.4.jpg,20-10-2002,rhb,rm,right-hand bat,right-arm medium,25.0,bowler
+91227,Towhid Hridoy,P,Towhid Hridoy,/db/PICTURES/CMS/377500/377579.4.jpg,4-12-2000,rhb,ob,right-hand bat,right-arm offbreak,25.0,top-order batter
+57366,Saad Bin Zafar,C,Saad Bin Zafar,/db/PICTURES/CMS/264000/264081.1.jpg,10-11-1986,lhb,sla,left-hand bat,slow left-arm orthodox,17.0,allrounder
+108046,DS Bajwa,P,Dilpreet Bajwa,,1-4-2001,rhb,ob,right-hand bat,right-arm offbreak,17.0,allrounder
+80083,NS Dhaliwal,P,Navneet Dhaliwal,/db/PICTURES/CMS/241000/241035.1.jpg,10-10-1988,rhb,rmf,right-hand bat,right-arm medium-fast,17.0,middle-order batter
+56872,N Dutta,P,Nikhil Dutta,/db/PICTURES/CMS/179500/179599.1.jpg,13-10-1994,rhb,ob,right-hand bat,right-arm offbreak,17.0,bowler
+51014,JOA Gordon,P,Jeremy Gordon,/db/PICTURES/CMS/141500/141509.1.jpg,20-1-1987,rhb,rfm,right-hand bat,right-arm fast-medium,17.0,bowler
+95122,D Heyliger,P,Dilon Heyliger,/db/PICTURES/CMS/262500/262569.1.jpg,21-10-1989,rhb,rm,right-hand bat,right-arm medium,17.0,bowler
+112596,A Johnson,P,Aaron Johnson,,16-3-1991,rhb,ob,right-hand bat,right-arm offbreak,17.0,batter
+99232,RR Joshi,P,Rishiv Joshi,/db/PICTURES/CMS/292400/292484.1.jpg,4-11-2000,rhb,lmf,right-hand bat,left-arm medium-fast,17.0,bowler
+64426,Junaid Siddiqui,P,Junaid Siddiqui,/db/PICTURES/CMS/218500/218597.1.jpg,25-3-1985,rhb,lb,right-hand bat,legbreak,17.0,allrounder
+58923,Kaleem Sana,P,Kaleem Sana,/db/PICTURES/CMS/112500/112573.1.jpg,1-1-1994,rhb,lmf,right-hand bat,left-arm medium-fast,17.0,bowler
+80445,NR Kirton,P,Nicholas Kirton,,6-5-1998,lhb,,left-hand bat,,17.0,batting allrounder
+106864,S Movva,WK,Shreyas Movva,,4-9-1993,rhb,,right-hand bat,,17.0,wicketkeeper batter
+61997,Pargat Singh,P,Pargat Singh,,13-4-1992,rhb,ob,right-hand bat,right-arm offbreak,17.0,allrounder
+65665,R Pathan,P,Rayyan Pathan,/db/PICTURES/CMS/134600/134621.1.jpg,6-12-1991,rhb,rfm,right-hand bat,right-arm fast-medium,17.0,batting allrounder
+103571,Ravinderpal Singh,P,Ravinderpal Singh,,14-10-1988,rhb,ob,right-hand bat,right-arm offbreak,17.0,batter
+106862,K Tathgur,P,Kanwarpal Tathgur,,5-8-1993,rhb,,right-hand bat,,17.0,batter
+84169,H Thaker,P,Harsh Thaker,/db/PICTURES/CMS/365300/365312.1.png,24-10-1997,rhb,ob,right-hand bat,right-arm offbreak,17.0,allrounder
+72379,JC Archer,P,Jofra Archer,/db/PICTURES/CMS/305000/305033.jpg,1-4-1995,rhb,rf,right-hand bat,right-arm fast,1.0,bowler
+65672,BM Duckett,P,Ben Duckett,/db/PICTURES/CMS/303900/303917.jpg,17-10-1994,lhb,ob,left-hand bat,right-arm offbreak,1.0,top-order batter
+102682,TW Hartley,P,Tom Hartley,/db/PICTURES/CMS/320900/320978.1.jpg,3-5-1999,lhb,sla,left-hand bat,slow left-arm orthodox,1.0,bowler
+83741,WG Jacks,P,Will Jacks,/db/PICTURES/CMS/296200/296209.1.jpg,21-11-1998,rhb,ob,right-hand bat,right-arm offbreak,1.0,batting allrounder
+74975,S Dube,P,Shivam Dube,/db/PICTURES/CMS/356700/356768.1.png,26-6-1993,lhb,rm,left-hand bat,right-arm medium,6.0,allrounder
+102743,YBK Jaiswal,P,Yashasvi Jaiswal,/db/PICTURES/CMS/356800/356803.1.png,28-12-2001,lhb,lb,left-hand bat,legbreak,6.0,opening batter
+67609,Kuldeep Yadav,P,Kuldeep Yadav,/db/PICTURES/CMS/304200/304208.png,14-12-1994,lhb,lws,left-hand bat,left-arm wrist-spin,6.0,bowler
+87477,Mohammed Siraj,P,Mohammed Siraj,/db/PICTURES/CMS/315600/315604.jpg,13-3-1994,rhb,rf,right-hand bat,right-arm fast,6.0,bowler
+60806,SV Samson,WK,Sanju Samson,/db/PICTURES/CMS/318800/318843.jpg,11-11-1994,rhb,,right-hand bat,,6.0,wicketkeeper batter
+62913,GR Adair,P,Ross Adair,,21-4-1994,rhb,sla,right-hand bat,slow left-arm orthodox,29.0,top-order batter
+109274,PD Blignaut,P,Peter-Daniel Blignaut,,21-10-2005,rhb,sla,right-hand bat,slow left-arm orthodox,28.0,bowler
+111925,JT Brassell,P,Jack	Brassell,,31-3-2005,rhb,rm,right-hand bat,right-arm medium,28.0,bowler
+69544,N Davin,P,Nikolaas Davin,/db/PICTURES/CMS/281700/281722.1.jpg,19-12-1997,rhb,lb,right-hand bat,legbreak,28.0,batter
+66916,JP Kotze,P,JP Kotze,/db/PICTURES/CMS/179600/179631.1.jpg,23-4-1994,lhb,,left-hand bat,,28.0,batter
+68076,MB Kruger,P,Malan Kruger,/db/PICTURES/CMS/179600/179637.1.jpg,12-4-1995,rhb,,right-hand bat,,28.0,batter
+109273,DO Leicher,P,Dylan Leicher,,3-5-2004,rhb,rm,right-hand bat,right-arm medium,28.0,middle-order batter
+95873,RK Paudel,C,Rohit Paudel,/db/PICTURES/CMS/278800/278820.1.jpg,2-9-2002,rhb,ob,right-hand bat,right-arm offbreak,32.0,batting allrounder
+94925,Aasif Sheikh,P,Aasif Sheikh,/db/PICTURES/CMS/330400/330463.1.jpg,22-6-2001,rhb,,right-hand bat,,32.0,wicketkeeper batter
+79281,DS Airee,P,Dipendra Singh Airee,/db/PICTURES/CMS/278800/278818.1.jpg,24-1-2000,rhb,"rm,ob",right-hand bat,"right-arm medium,right-arm offbreak",32.0,middle-order batter
+95867,KS Airee,P,Kamal Airee,/db/PICTURES/CMS/362500/362504.4.jpg,19-12-2000,rhb,rm,right-hand bat,right-arm medium,32.0,
+79287,K Bhurtel,P,Kushal Bhurtel,/db/PICTURES/CMS/330400/330444.1.jpg,22-1-1997,rhb,lbg,right-hand bat,legbreak googly,32.0,opening batter
+94919,A Bohara,P,Abinash Bohara,/db/PICTURES/CMS/330300/330376.1.jpg,30-7-1997,rhb,rm,right-hand bat,right-arm medium,32.0,bowler
+102478,S Dhakal,P,Sagar Dhakal,,14-12-2001,rhb,sla,right-hand bat,slow left-arm orthodox,32.0,
+108705,Gulsan Jha,P,Gulsan Jha,/db/PICTURES/CMS/330400/330445.1.jpg,17-2-2006,lhb,rm,left-hand bat,right-arm medium,32.0,bowler
+103764,S Jora,P,Sundeep Jora,/db/PICTURES/CMS/362500/362506.3.jpg,20-10-2001,rhb,,right-hand bat,,32.0,middle-order batter
+79527,Karan KC,P,Karan KC,/db/PICTURES/CMS/259900/259969.1.jpg,10-10-1991,rhb,rf,right-hand bat,right-arm fast,32.0,allrounder
+102117,Kushal Malla,P,Kushal Malla,/db/PICTURES/CMS/330400/330447.1.jpg,5-3-2004,lhb,sla,left-hand bat,slow left-arm orthodox,32.0,batting allrounder
+105076,Pratis GC,P,Pratis GC,/db/PICTURES/CMS/362500/362505.3.jpg,22-5-2004,rhb,lm,right-hand bat,left-arm medium,32.0,bowling allrounder
+84063,LN Rajbanshi,P,Lalit Rajbanshi,/db/PICTURES/CMS/222900/222949.1.jpg,27-2-1999,rhb,sla,right-hand bat,slow left-arm orthodox,32.0,bowler
+94921,AK Sah,P,Anil Sah,/db/PICTURES/CMS/278800/278819.1.jpg,17-11-1998,rhb,ob,right-hand bat,right-arm offbreak,32.0,batting allrounder
+106014,A Dutt,P,Aryan Dutt,/db/PICTURES/CMS/362700/362791.4.jpg,12-5-2003,rhb,ob,right-hand bat,right-arm offbreak,15.0,bowler
+53408,SA Engelbrecht,P,Sybrand Engelbrecht,/db/PICTURES/CMS/194200/194225.1.jpg,15-9-1988,rhb,ob,right-hand bat,right-arm offbreak,15.0,allrounder
+106012,K Klein,P,Kyle Klein,/db/PICTURES/CMS/366300/366326.4.jpg,3-7-2001,rhb,rm,right-hand bat,right-arm medium,15.0,bowler
+95739,M Levitt,P,Michael Levitt,/db/PICTURES/CMS/362700/362796.4.jpg,19-6-2003,rhb,rf,right-hand bat,right-arm fast,15.0,top-order batter
+66040,Saqib Zulfiqar,P,Saqib Zulfiqar,/db/PICTURES/CMS/362800/362801.1.png,28-3-1997,rhb,lb,right-hand bat,legbreak,15.0,bowling allrounder
+71357,DT Doram,P,Daniel Doram,,13-10-1997,lhb,sla,left-hand bat,slow left-arm orthodox,15.0,bowler
+64947,MJ Henry,P,Matt Henry,/db/PICTURES/CMS/303600/303607.jpg,14-12-1991,rhb,rfm,right-hand bat,right-arm fast-medium,5.0,bowler
+89105,R Ravindra,P,Rachin Ravindra,/db/PICTURES/CMS/271800/271809.jpg,18-11-1999,lhb,sla,left-hand bat,slow left-arm orthodox,5.0,batting allrounder
+116020,PS Athavale,WK,Pratik Athavale,/db/PICTURES/CMS/368800/368819.1.png,20-4-1997,rhb,ob,right-hand bat,right-arm offbreak,37.0,wicketkeeper batter
+70624,Khalid Kail,P,Khalid Kail,,13-10-1996,rhb,,right-hand bat,,37.0,middle-order batter
+104609,Rafiullah,P,Rafiullah,/db/PICTURES/CMS/380500/380599.1.png,16-8-1996,rhb,rm,right-hand bat,right-arm medium,37.0,
+72863,Shakeel Ahmed,P,Shakeel Ahmed,/db/PICTURES/CMS/370500/370515.1.png,4-2-1988,lhb,sla,left-hand bat,slow left-arm orthodox,37.0,bowler
+110058,Shoaib Khan,P,Shoaib Khan,/db/PICTURES/CMS/362500/362501.4.jpg,6-12-1992,rhb,rm,right-hand bat,right-arm medium,37.0,batter
+103490,Abbas Afridi,P,Abbas Afridi,/db/PICTURES/CMS/322100/322158.png,5-4-2001,rhb,rmf,right-hand bat,right-arm medium-fast,7.0,bowler
+76191,Abrar Ahmed,P,Abrar Ahmed,/db/PICTURES/CMS/376900/376943.4.jpg,11-9-1998,rhb,lbg,right-hand bat,legbreak googly,7.0,bowler
+101912,Azam Khan,P,Azam Khan,/db/PICTURES/CMS/325300/325358.4.jpg,10-8-1998,rhb,,right-hand bat,,7.0,wicketkeeper batter
+103773,Saim Ayub,P,Saim Ayub,/db/PICTURES/CMS/325600/325608.3.jpg,24-5-2002,lhb,"rmf,ob",left-hand bat,"right-arm medium-fast,right-arm offbreak",7.0,top-order batter
+101325,Usman Khan,P,Usman Khan,,10-5-1995,rhb,ob,right-hand bat,right-arm offbreak,7.0,top-order batter
+110013,JWW Gardner,P,Jack Gardner,/db/PICTURES/CMS/329300/329359.4.jpg,23-12-2000,,,,,20.0,
+100456,SI Kamea,P,Semo Kamea,,21-8-2001,lhb,lf,left-hand bat,left-arm fast,20.0,bowler
+111182,J Kariko,P,John Kariko,,16-1-2004,lhb,,left-hand bat,,20.0,bowler
+65883,A Nao,P,Alei Nao,/db/PICTURES/CMS/179900/179907.1.jpg,9-12-1993,rhb,rm,right-hand bat,right-arm medium,20.0,bowler
+105613,HGV Vare,P,Hila Vare,,10-8-2001,lhb,,left-hand bat,,20.0,
+102232,OJ Carter,P,Oli Carter,/db/PICTURES/CMS/356000/356033.1.jpg,2-11-2001,rhb,,right-hand bat,,1.0,
+91689,BJ Currie,P,Bradley Currie,/db/PICTURES/CMS/357000/357089.jpg,8-11-1998,rhb,lfm,right-hand bat,left-arm fast-medium,30.0,bowler
+110235,J Jarvis,P,Jack Jarvis,,29-5-2003,rhb,rmf,right-hand bat,right-arm medium-fast,30.0,bowler
+109518,C Tear,P,Charlie Tear,/db/PICTURES/CMS/357000/357090.jpg,12-6-2004,rhb,,right-hand bat,,30.0,wicketkeeper batter
+66473,OEG Baartman,P,Ottneil Baartman,/db/PICTURES/CMS/224900/224923.1.jpg,18-3-1993,rhb,rmf,right-hand bat,right-arm medium-fast,3.0,bowler
+69729,G Coetzee,P,Gerald Coetzee,/db/PICTURES/CMS/345900/345943.4.jpg,2-10-2000,rhb,rf,right-hand bat,right-arm fast,3.0,bowler
+73871,M Jansen,P,Marco Jansen,/db/PICTURES/CMS/335000/335050.4.jpg,1-5-2000,rhb,lmf,right-hand bat,left-arm medium-fast,3.0,bowling allrounder
+70498,RD Rickelton,P,Ryan Rickelton,/db/PICTURES/CMS/345900/345935.4.jpg,11-7-1996,lhb,,left-hand bat,,3.0,wicketkeeper batter
+78239,PW Hasaranga,C,Wanindu Hasaranga,/db/PICTURES/CMS/294200/294296.jpg,29-7-1997,rhb,lb,right-hand bat,legbreak,8.0,allrounder
+78233,PHKD Mendis,P,Kamindu Mendis,/db/PICTURES/CMS/305100/305194.jpg,30-9-1998,lhb,"ob,sla",left-hand bat,"right-arm offbreak,slow left-arm orthodox",8.0,allrounder
+105938,M Pathirana,P,Matheesha Pathirana,/db/PICTURES/CMS/350000/350094.4.jpg,18-12-2002,rhb,rf,right-hand bat,right-arm fast,8.0,bowler
+70890,S Samarawickrama,P,Sadeera Samarawickrama,/db/PICTURES/CMS/303800/303845.png,30-8-1995,rhb,,right-hand bat,,8.0,wicketkeeper batter
+88945,N Thushara,P,Nuwan Thushara,/db/PICTURES/CMS/381300/381395.4.jpg,6-8-1994,rhb,rmf,right-hand bat,right-arm medium-fast,8.0,bowler
+102835,DN Wellalage,P,Dunith Wellalage,/db/PICTURES/CMS/350100/350118.4.jpg,9-1-2003,lhb,sla,left-hand bat,slow left-arm orthodox,8.0,bowler
+60488,B Masaba,C,Brian Masaba,/db/PICTURES/CMS/172900/172913.1.jpg,22-9-1991,rhb,"rfm,lbg",right-hand bat,"right-arm fast-medium,legbreak googly",34.0,bowler
+101619,Riazat Ali Shah,VC,Riazat Ali Shah,/db/PICTURES/CMS/275800/275801.1.jpg,20-2-1998,rhb,rm,right-hand bat,right-arm medium,34.0,
+98580,F Achelam,P,Fred Achelam,/db/PICTURES/CMS/275800/275806.1.jpg,27-1-2001,rhb,,right-hand bat,,34.0,wicketkeeper batter
+102781,Bilal Hassun,P,Bilal Hassan,/db/PICTURES/CMS/275800/275802.1.jpg,15-4-1990,rhb,rmf,right-hand bat,right-arm medium-fast,34.0,bowler
+98579,C Kyewuta,P,Cosmas Kyewuta,,28-12-2001,rhb,rm,right-hand bat,right-arm medium,34.0,bowler
+104949,J Miyaji,P,Juma Miyagi,,5-4-2003,rhb,,right-hand bat,,34.0,
+49195,RG Mukasa,P,Roger Mukasa,/db/PICTURES/CMS/172900/172923.1.jpg,22-5-1989,rhb,ob,right-hand bat,right-arm offbreak,34.0,
+75965,DM Nakrani,P,Dinesh Nakrani,,21-9-1991,lhb,lm,left-hand bat,left-arm medium,34.0,allrounder
+5454,F Nsubuga,P,Frank Nsubuga,/db/PICTURES/CMS/172900/172987.1.jpg,28-8-1980,rhb,sla,right-hand bat,slow left-arm orthodox,34.0,
+115108,R Obuya,P,Robinson Obuya,,12-12-2000,rhb,,right-hand bat,,34.0,
+102780,RB Patel,P,Ronak Patel,,18-8-1988,rhb,sla,right-hand bat,slow left-arm orthodox,34.0,
+104950,AR Ramjani,P,Alpesh Ramjani,,24-9-1994,lhb,sla,left-hand bat,slow left-arm orthodox,34.0,allrounder
+60487,H Ssenyondo,P,Henry Ssenyondo,/db/PICTURES/CMS/172900/172921.1.jpg,12-8-1993,rhb,sla,right-hand bat,slow left-arm orthodox,34.0,
+66273,S Ssesazi,P,Simon Ssesazi,/db/PICTURES/CMS/275800/275805.1.jpg,6-6-1996,lhb,rs,left-hand bat,right-arm slow,34.0,
+86017,K Waiswa,P,Kenneth Waiswa,/db/PICTURES/CMS/275800/275803.1.jpg,11-11-1998,rhb,rm,right-hand bat,right-arm medium,34.0,allrounder
+103569,MD Patel,CWK,Monank Patel,/db/PICTURES/CMS/339500/339520.4.jpg,1-5-1993,rhb,,right-hand bat,,11.0,wicketkeeper batter
+88991,Aaron Jones,VC,Aaron Jones,/db/PICTURES/CMS/286800/286882.1.jpg,19-10-1994,rhb,lbg,right-hand bat,legbreak googly,11.0,top-order batter
+85811,Ali Khan,P,Ali Khan,/db/PICTURES/CMS/339500/339504.4.jpg,13-12-1990,rhb,rfm,right-hand bat,right-arm fast-medium,11.0,bowler
+63859,AGS Gous,P,Andries Gous,,24-11-1993,rhb,,right-hand bat,,11.0,wicketkeeper
+60588,Harmeet Singh,P,Harmeet Singh,/db/PICTURES/CMS/148400/148408.jpg,7-9-1992,lhb,sla,left-hand bat,slow left-arm orthodox,11.0,bowling allrounder
+77577,Jasdeep Singh,P,Jasdeep Singh,/db/PICTURES/CMS/339500/339518.4.jpg,10-2-1993,rhb,rm,right-hand bat,right-arm medium,11.0,bowler
+93827,NP Kenjige,P,Nosthush Kenjige,/db/PICTURES/CMS/339500/339525.4.jpg,2-3-1991,rhb,sla,right-hand bat,slow left-arm orthodox,11.0,bowler
+56868,NR Kumar,P,Nitish Kumar,/db/PICTURES/CMS/224600/224668.1.jpg,21-5-1994,rhb,ob,right-hand bat,right-arm offbreak,11.0,top-order batter
+62181,Milind Kumar,P,Milind Kumar,/db/PICTURES/CMS/180200/180293.1.jpg,15-2-1991,rhb,ob,right-hand bat,right-arm offbreak,11.0,allrounder
+59607,SN Netravalkar,P,Saurabh Netravalkar,/db/PICTURES/CMS/340300/340327.4.jpg,16-10-1991,rhb,lfm,right-hand bat,left-arm fast-medium,11.0,bowler
+49174,NK Patel,P,Nisarg Patel,/db/PICTURES/CMS/339500/339523.4.jpg,20-4-1988,rhb,sla,right-hand bat,slow left-arm orthodox,11.0,allrounder
+71605,Shayan Jahangir,P,Shayan Jahangir,,24-12-1994,rhb,rmf,right-hand bat,right-arm medium-fast,11.0,batter
+56870,SR Taylor,P,Steven Taylor,/db/PICTURES/CMS/173000/173077.1.jpg,9-11-1993,lhb,ob,left-hand bat,right-arm offbreak,11.0,opening batter
+55349,SC van Schalkwyk,P,Shadley van Schalkwyk,,5-8-1988,lhb,rm,left-hand bat,right-arm medium,11.0,allrounder
+68405,SD Hope,P,Shai Hope,/db/PICTURES/CMS/305900/305915.1.jpg,10-11-1993,rhb,,right-hand bat,,4.0,wicketkeeper batter
+114592,S Joseph,P,Shamar Joseph,/db/PICTURES/CMS/373700/373784.1.png,31-8-1999,lhb,rf,left-hand bat,right-arm fast,4.0,bowler
+72407,G Motie,P,Gudakesh Motie,/db/PICTURES/CMS/326100/326128.4.jpg,29-3-1995,lhb,sla,left-hand bat,slow left-arm orthodox,4.0,bowler
+84201,SE Rutherford,P,Sherfane Rutherford,/db/PICTURES/CMS/380600/380673.4.jpg,15-8-1998,lhb,rfm,left-hand bat,right-arm fast-medium,4.0,middle-order batter
+72505,R Shepherd,P,Romario Shepherd,/db/PICTURES/CMS/322000/322037.png,26-11-1994,rhb,rfm,right-hand bat,right-arm fast-medium,4.0,bowling allrounder
